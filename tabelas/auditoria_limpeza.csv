@@ -1,0 +1,4 @@
+etapa;registros_antes;registros_rejeitados;registros_depois
+Produto fora do escopo;69506;0;69506
+Data ausente ou inválida;69506;0;69506
+Preço ausente, não numérico ou não positivo;69506;0;69506

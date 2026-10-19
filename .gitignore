@@ -1,0 +1,30 @@
+# Ambientes Python locais
+.venv/
+.venv-*/
+venv/
+env/
+
+# Cache e artefatos Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Configuração local do VS Code
+.vscode/settings.json
+
+# Segredos locais do Streamlit
+.streamlit/secrets.toml
+
+# Backups locais
+backups/
+
+# Bases analíticas regeneradas pelos notebooks
+Dados/Bruto/ca-*.csv
+# Logs e arquivos auxiliares do sistema
+*.log
+.DS_Store
+Thumbs.db
