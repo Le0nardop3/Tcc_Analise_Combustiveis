@@ -47,14 +47,59 @@ Os CSVs originais da ANP devem permanecer em `Dados/Bruto/`. O Notebook 01 os l�
 
 ## Dashboard Streamlit
 
-Os Parquet por posto e semana preservam o histórico completo até junho de 2026; a semana comum usada em algumas análises do Notebook 05 não limita os filtros temporais futuros. Para preparar os dados geográficos, execute o geocodificador (requer internet) e inicie o painel:
+### Publicar para acessar de qualquer computador
+
+O dashboard pode ser publicado gratuitamente no Streamlit Community Cloud. O
+repositório já contém a base Parquet, o cache de coordenadas e as dependências
+necessárias para o deploy. Para publicar:
+
+1. Faça push das alterações deste projeto para o GitHub.
+2. Acesse [share.streamlit.io](https://share.streamlit.io/) e entre com a
+   conta que tem acesso ao repositório `Le0nardop3/Tcc_Analise_Combustiveis`.
+3. Clique em **Create app** e selecione:
+   - **Repository:** `Le0nardop3/Tcc_Analise_Combustiveis`;
+   - **Branch:** `main`;
+   - **Main file path:** `dashboard/app.py`.
+4. Em **Advanced settings**, mantenha Python 3.11 e clique em **Deploy**.
+
+Depois da publicação, o Streamlit fornecerá um endereço público semelhante a
+`https://nome-do-app.streamlit.app`. Esse é o link que pode ser colocado no
+artigo e compartilhado com a banca.
+
+O dashboard não consulta o Google durante a pesquisa do usuário e, portanto,
+não precisa de segredo para funcionar. A chave `GOOGLE_MAPS_API_KEY` só é
+necessária para executar localmente o script manual de atualização das
+coordenadas. Não adicione essa chave aos Secrets do Cloud, a menos que queira
+executar esse processo em uma tarefa separada.
+
+Os Parquet por posto e semana preservam o histórico completo até junho de 2026; a semana comum usada em algumas análises do Notebook 05 não limita os filtros temporais futuros. Para atualizar os endereços dos registros mais recentes de cada posto via BrasilAPI (consulta de CEP, sem geocodificar), execute:
+
+```powershell
+python dashboard/geocodificar_postos.py --addresses-only
+```
+
+Para geocodificar os postos que ainda não têm latitude/longitude usando a Google
+Geocoding API, configure a chave somente no ambiente e execute:
+
+```powershell
+$env:GOOGLE_MAPS_API_KEY = "SUA_CHAVE_AQUI"
+python dashboard/geocodificar_postos.py --google
+Remove-Item Env:\GOOGLE_MAPS_API_KEY
+```
+
+O comando consulta apenas os postos pendentes e salva as coordenadas no cache.
+Não coloque a chave no código, no Git ou em arquivos versionados. No Streamlit
+Community Cloud, a chave deve ficar em `st.secrets`; o dashboard não consulta o
+Google durante a pesquisa do usuário.
+
+Para tentar também obter latitude e longitude para os postos, execute o geocodificador completo (requer internet). O script tenta o Photon e, quando necessário, variações de endereço e o Nominatim, mantendo checkpoints no Parquet para que a execução possa ser retomada:
 
 ```powershell
 python dashboard/geocodificar_postos.py
 streamlit run dashboard/app.py
 ```
 
-Os dados da ANP são históricos, não preços em tempo real. Na validação, somente 11 dos 205 postos tinham coordenadas no cache; o mapa e a busca por distância devem indicar essa cobertura limitada. O dashboard não foi executado nesta etapa e ainda não está certificado: `dashboard/app.py` referencia `coordenadas_postos`, `lookup_reference_address` e `distance_km` sem defini-los nesse arquivo. Esses pontos precisam ser resolvidos e testados antes de considerar o painel funcional.
+Os dados da ANP são históricos, não preços em tempo real. A busca principal do dashboard aceita o CEP de origem, consulta a localização aproximada e lista os postos candidatos dentro do raio escolhido. Para cada posto, o ranking considera somente os preços dos dois meses mais recentes disponíveis na base e usa a última coleta do combustível selecionado nesse período. O resultado considera o preço do combustível, o custo estimado para chegar ao posto e a quantidade de litros informada. O raio, o combustível, o consumo e o volume de abastecimento podem ser ajustados. Postos sem coordenadas ou sem preço no período recente não entram no ranking; essas limitações são informadas na própria tela. Os endereços retornados pela BrasilAPI são usados preferencialmente na exibição dos resultados e mantidos no cache junto com a fonte.
 
 ## Regras e interpretação
 
