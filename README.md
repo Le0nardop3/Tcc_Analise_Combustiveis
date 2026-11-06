@@ -99,7 +99,13 @@ python dashboard/geocodificar_postos.py
 streamlit run dashboard/app.py
 ```
 
-Os dados da ANP são históricos, não preços em tempo real. A busca principal do dashboard aceita o CEP de origem, consulta a localização aproximada e lista os postos candidatos dentro do raio escolhido. Para cada posto, o ranking considera somente os preços dos dois meses mais recentes disponíveis na base e usa a última coleta do combustível selecionado nesse período. O resultado considera o preço do combustível, o custo estimado para chegar ao posto e a quantidade de litros informada. O raio, o combustível, o consumo e o volume de abastecimento podem ser ajustados. Postos sem coordenadas ou sem preço no período recente não entram no ranking; essas limitações são informadas na própria tela. Os endereços retornados pela BrasilAPI são usados preferencialmente na exibição dos resultados e mantidos no cache junto com a fonte.
+Os dados da ANP são históricos, não preços em tempo real. A busca principal aceita o CEP de origem e lista postos geocodificados dentro do raio escolhido. O ranking considera somente coletas dos **últimos 60 dias em relação à data de uso**, usando a última coleta disponível de cada posto nesse período; se a base não tiver coletas nessa janela, o dashboard avisa e não apresenta recomendação. Na validação de 05/11/2026, a última coleta local era 29/06/2026, portanto a base precisava ser atualizada para voltar a oferecer recomendações. O resultado considera o preço, a distância aproximada em linha reta, o consumo e o volume informado. Postos sem coordenadas ou sem coleta recente não entram no ranking. Os endereços retornados pela BrasilAPI são usados preferencialmente na exibição e mantidos no cache junto com a fonte.
+
+## Validação do calculador
+
+O comando `python dashboard/validar_calculador.py` compara a média municipal do pipeline com as médias oficiais semanais municipais da ANP em 30 semanas amostradas entre 2024 e 2026. Na execução de 05/11/2026, foram comparadas 178 combinações município/combustível: diferença média (pipeline − ANP) de **R$ 0,0041/L**, erro absoluto médio de **R$ 0,0041/L** e correlação de Pearson de **0,999994**. As observações estão em `tabelas/validacao_pipeline_anp.csv`.
+
+O mesmo comando compara a distância em linha reta do calculador com rotas de condução do OSRM para 25 pares CEP–posto, resolvendo o CEP pelo fluxo BrasilAPI + Photon/OpenStreetMap. A amostra obteve erro médio (ruas − reta) de **1,258 km**, erro absoluto médio de **1,259 km** e acréscimo médio de **36,8%**. Os pares estão em `tabelas/validacao_distancias_osrm.csv`; método, fontes e limitações estão em [RELATORIO_VALIDACAO_CALCULADOR.md](RELATORIO_VALIDACAO_CALCULADOR.md). Os resultados descrevem apenas as amostras e coordenadas usadas, não uma correção universal da distância.
 
 ## Regras e interpretação
 

@@ -13,6 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 POSTOS_PATH = ROOT / "Dados" / "Analitico" / "posto_semana.parquet"
 COORDINATES_PATH = ROOT / "Dados" / "Analitico" / "coordenadas_postos.parquet"
 CORES = {"GASOLINA": "#176B55", "ETANOL": "#D56A45"}
+RECENCY_DAYS = 60
 
 st.set_page_config(
     page_title="Combustíveis | João Pessoa",
@@ -482,12 +483,19 @@ radius_km = recommendation_controls[4].slider(
 
 st.markdown('<div id="resultado"></div>', unsafe_allow_html=True)
 latest_price_date = postos["semana"].max()
-price_window_start = latest_price_date - pd.DateOffset(months=2)
+today = pd.Timestamp.now().normalize()
+price_window_start = today - pd.Timedelta(days=RECENCY_DAYS)
 st.caption(
-    f"O ranking considera os preços coletados nos dois meses mais recentes da base "
-    f"({price_window_start:%d/%m/%Y} a {latest_price_date:%d/%m/%Y}), usando a última "
-    "coleta disponível de cada posto nesse período. A distância é uma aproximação em linha reta."
+    f"O calculador considera apenas coletas dos últimos {RECENCY_DAYS} dias "
+    f"({price_window_start:%d/%m/%Y} a {today:%d/%m/%Y}); última coleta disponível na base: "
+    f"{latest_price_date:%d/%m/%Y}. A distância é uma aproximação em linha reta."
 )
+has_recent_prices = postos["semana"].between(price_window_start, today).any()
+if not has_recent_prices:
+    st.warning(
+        f"A base não contém coletas dos últimos {RECENCY_DAYS} dias. "
+        "Atualize os dados antes de usar as recomendações de postos."
+    )
 total_stations = postos["id_posto"].nunique()
 mapped_stations = postos.dropna(subset=["latitude", "longitude"])["id_posto"].nunique()
 st.caption(f"Coordenadas de logradouro disponíveis para {mapped_stations} de {total_stations} postos; postos sem coordenada não entram na busca.")
@@ -533,7 +541,9 @@ else:
         )
         nearby_all = nearby_all.loc[nearby_all["distancia_origem_km"] <= radius_km]
         stations_in_radius = nearby_all["id_posto"].nunique()
-        nearby = nearby_all.loc[nearby_all["semana"] >= price_window_start].copy()
+        nearby = nearby_all.loc[
+            nearby_all["semana"].between(price_window_start, today)
+        ].copy()
         nearby = nearby.sort_values("semana").groupby(
             ["id_posto", "produto"], group_keys=False
         ).tail(1).copy()
@@ -551,8 +561,8 @@ else:
         if stations_in_radius:
             st.warning(
                 f"{stations_in_radius} posto(s) estão no raio de {radius_km} km, "
-                f"mas nenhum possui coleta de {best_product.title()} nos dois meses "
-                "mais recentes da base."
+                f"mas nenhum possui coleta de {best_product.title()} nos últimos "
+                f"{RECENCY_DAYS} dias."
             )
         else:
             st.warning(
@@ -571,7 +581,7 @@ else:
         nearest_columns[2].caption(f"Até o posto · {consumption_km_l:.1f} km/L")
         nearest_columns[3].metric("Postos comparados", f"{nearby['id_posto'].nunique():,}".replace(",", "."))
         nearest_columns[3].caption(
-            f"{stations_in_radius} no raio · uma coleta por posto nos últimos 2 meses"
+            f"{stations_in_radius} no raio · coleta por posto nos últimos {RECENCY_DAYS} dias"
         )
         st.caption(
             f"Localização usada: {origin_description}. "
