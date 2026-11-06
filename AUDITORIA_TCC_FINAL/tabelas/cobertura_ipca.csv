@@ -1,0 +1,2 @@
+﻿fonte_dados;arquivo;linhas_ipca_validas;inicio_ipca;fim_ipca;inicio_precos;fim_precos;mes_base;indice_ipca_mes_base;grupos_mensais_sem_indice;grupos_mensais_cobertos
+Dados/Analitico/posto_semana.parquet e Dados/Analitico/ipca.csv (SIDRA/IBGE).;Dados\Analitico\ipca.csv;562;1979-12-01;2026-09-01;2011-01-03;2026-06-29;2026-06-01;7652,37;0;1250

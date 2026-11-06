@@ -1,0 +1,5 @@
+﻿fonte_dados;municipio;postos_cache;coordenadas_validas;fontes
+Dados/Analitico/coordenadas_postos.parquet e posto_semana.parquet.;BAYEUX;20;20;Google Geocoding API | Photon / OpenStreetMap
+Dados/Analitico/coordenadas_postos.parquet e posto_semana.parquet.;CABEDELO;17;14;Google Geocoding API | Photon / OpenStreetMap
+Dados/Analitico/coordenadas_postos.parquet e posto_semana.parquet.;JOAO PESSOA;156;155;Google Geocoding API | Nominatim / OpenStreetMap | Photon / OpenStreetMap
+Dados/Analitico/coordenadas_postos.parquet e posto_semana.parquet.;SANTA RITA;12;12;Google Geocoding API | Photon / OpenStreetMap

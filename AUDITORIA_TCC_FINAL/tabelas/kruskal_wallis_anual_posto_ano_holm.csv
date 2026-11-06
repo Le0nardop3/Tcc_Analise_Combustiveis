@@ -1,0 +1,15 @@
+﻿fonte_dados;ano;produto;municipios;n_bayeux;n_cabedelo;n_joao_pessoa;n_santa_rita;observacoes_posto_ano;estatistica_h;p_valor;p_ajustado_holm;significativo_5pct_sem_ajuste;significativo_5pct_holm;tamanho_efeito_epsilon_quadrado
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;4;9;13;90;6;118;2,9963012061005085;0,392195809165373;1,0;False;False;0,0
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;4;9;13;90;7;119;1,325240845388689;0,7231482926178878;1,0;False;False;0,0
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;4;8;13;97;8;126;7,020315642742958;0,07125305508740572;0,7671743274895146;False;False;0,03295340690772916
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;4;8;13;97;8;126;7,928789188690424;0,04750657384326215;0,617585459962408;True;False;0,040399911382708396
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;4;9;10;96;7;122;0,3256305235543128;0,9551381507739571;1,0;False;False;0,0
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;4;10;11;96;8;125;14,62095105967522;0,002170968461351029;0,030393558458914408;True;True;0,09604091784855553
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;4;8;9;80;6;103;1,8877607044707454;0,5960258818701853;1,0;False;False;0,0
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;4;9;10;80;6;105;7,068599439921729;0,06974312068086497;0,7671743274895146;False;False;0,04028316277150227
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;4;12;9;82;8;111;5,483722512671325;0,13961543933935788;1,0;False;False;0,023212359931507713
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;4;13;10;83;8;114;4,251676759028464;0,23553872051001967;1,0;False;False;0,01137887962753149
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;4;10;11;68;7;96;7,330923352478376;0,062065662402313634;0,7447879488277636;False;False;0,04707525383128669
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;4;12;11;70;7;100;4,041767775976938;0,25698914253062555;1,0;False;False;0,010851747666426437
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;4;9;12;61;5;87;3,9332641954936047;0,2687611479832225;1,0;False;False;0,011244146933657889
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;4;11;12;61;5;89;2,3011204465613924;0,5123062931438294;1,0;False;False;0,0

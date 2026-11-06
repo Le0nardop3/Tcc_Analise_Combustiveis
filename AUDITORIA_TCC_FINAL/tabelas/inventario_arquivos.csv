@@ -1,0 +1,98 @@
+﻿fonte_dados;arquivo_relativo;categoria;extensao;bytes
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;.gitignore;Configuração;[sem extensão];477
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;.python-version;Configuração;[sem extensão];6
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;.streamlit\config.toml;Configuração;.toml;162
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\coordenadas_cep.parquet;Dados processados/analíticos;.parquet;5096
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\coordenadas_postos.parquet;Dados processados/analíticos;.parquet;48250
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\ipca.csv;Dados processados/analíticos;.csv;12233
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\metricas.parquet;Dados processados/analíticos;.parquet;68980
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\metricas_dispersao.parquet;Dados processados/analíticos;.parquet;164262
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\metricas_municipio_semana.parquet;Dados processados/analíticos;.parquet;266057
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\metricas_posto_semana.parquet;Dados processados/analíticos;.parquet;655430
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\municipio_semana.parquet;Dados processados/analíticos;.parquet;153953
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\municipio_semana_sensibilidade_outliers.parquet;Dados processados/analíticos;.parquet;135681
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\posto_semana.parquet;Dados processados/analíticos;.parquet;565466
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\precos_municipio_semana.parquet;Dados processados/analíticos;.parquet;47216
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\ranking_postos_semana.parquet;Dados processados/analíticos;.parquet;826450
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Analitico\resumo_postos.parquet;Dados processados/analíticos;.parquet;6853
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2011-01.csv;Dados ANP brutos;.csv;112871260
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2011-02.csv;Dados ANP brutos;.csv;112967024
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2012-01.csv;Dados ANP brutos;.csv;115317460
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2012-02.csv;Dados ANP brutos;.csv;117248814
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2013-01.csv;Dados ANP brutos;.csv;116041985
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2013-02.csv;Dados ANP brutos;.csv;122252529
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2014-01.csv;Dados ANP brutos;.csv;119785796
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2014-02.csv;Dados ANP brutos;.csv;126551804
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2015-01.csv;Dados ANP brutos;.csv;121838059
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2015-02.csv;Dados ANP brutos;.csv;72067185
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2016-01.csv;Dados ANP brutos;.csv;85248937
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2016-02.csv;Dados ANP brutos;.csv;85811862
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2017-01.csv;Dados ANP brutos;.csv;85783990
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2017-02.csv;Dados ANP brutos;.csv;52899378
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2018-01.csv;Dados ANP brutos;.csv;82388616
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2018-02.csv;Dados ANP brutos;.csv;86572418
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2019-01.csv;Dados ANP brutos;.csv;87183889
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2019-02.csv;Dados ANP brutos;.csv;89017110
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2020-01.csv;Dados ANP brutos;.csv;86655383
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2020-02.csv;Dados ANP brutos;.csv;38903171
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2021-01.csv;Dados ANP brutos;.csv;57911124
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2021-02.csv;Dados ANP brutos;.csv;81317769
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2022-01.csv;Dados ANP brutos;.csv;90812404
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2022-02.csv;Dados ANP brutos;.csv;64921361
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2023-01.csv;Dados ANP brutos;.csv;74291202
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2023-02.csv;Dados ANP brutos;.csv;80630173
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2024-01.csv;Dados ANP brutos;.csv;81365972
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2024-02.csv;Dados ANP brutos;.csv;71797479
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2025-01.csv;Dados ANP brutos;.csv;71902526
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2025-02.csv;Dados ANP brutos;.csv;63739783
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Bruto\ca-2026-01.csv;Dados ANP brutos;.csv;72117162
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Ingresso\precos_rmjp_ingestao.parquet;Scripts e outros;.parquet;185839
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Limpo\precos_rmjp_ingestao.parquet;Dados processados/analíticos;.parquet;555936
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;Dados\Limpo\precos_rmjp_limpos.parquet;Dados processados/analíticos;.parquet;612444
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;README.md;Documentação;.md;10201
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;RELATORIO_FINAL_PIPELINE.md;Documentação;.md;10622
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;RELATORIO_VALIDACAO_CALCULADOR.md;Documentação;.md;2973
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;build_notebooks.py;Scripts e outros;.py;10717
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;dashboard\__pycache__\validar_calculador.cpython-314.pyc;Dashboard e geocodificação;.pyc;29043
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;dashboard\app.py;Dashboard e geocodificação;.py;46703
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;dashboard\geocodificar_postos.py;Dashboard e geocodificação;.py;17540
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;dashboard\validar_calculador.py;Dashboard e geocodificação;.py;19803
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\amplitude_mediana_anual.png;Figuras;.png;601932
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\boxplot_razao_por_municipio.png;Figuras;.png;112385
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\cobertura_anual_municipio.png;Figuras;.png;516565
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\cv_precos_por_municipio.png;Figuras;.png;94740
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\dispersao_precos.png;Figuras;.png;1080523
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\precos_bayeux.png;Figuras;.png;189678
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\precos_cabedelo.png;Figuras;.png;186194
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\precos_joao_pessoa.png;Figuras;.png;191914
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\precos_nominais_reais_ipca.png;Figuras;.png;1603134
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\precos_postos_por_bairro_semana_comum.png;Figuras;.png;536032
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\precos_resumo_semana_comum.png;Figuras;.png;277165
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\precos_santa_rita.png;Figuras;.png;157617
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\ranking_precos_semana_comum.png;Figuras;.png;846982
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\razao_por_mes.png;Figuras;.png;400449
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\razao_por_municipio.png;Figuras;.png;488589
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\sazonalidade_precos.png;Figuras;.png;179413
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;figuras\variacao_percentual_semanal.png;Figuras;.png;1079243
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;hello.py;Scripts e outros;.py;13
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;notebooks\01_ingestao_rmjp.ipynb;Notebooks;.ipynb;68731
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;notebooks\02_limpeza.ipynb;Notebooks;.ipynb;23758
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;notebooks\03_agregacao.ipynb;Notebooks;.ipynb;23225
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;notebooks\04_metricas.ipynb;Notebooks;.ipynb;30081
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;notebooks\05_analise.ipynb;Notebooks;.ipynb;64464
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;requirements.txt;Documentação;.txt;206
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\amplitude_mediana_anual.csv;Tabelas;.csv;5022
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\auditoria_limpeza.csv;Tabelas;.csv;203
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\cobertura_anual_municipio.csv;Tabelas;.csv;1216
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\impacto_sensibilidade_outliers.csv;Tabelas;.csv;1332
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\kruskal_wallis_anual.csv;Tabelas;.csv;2192
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\outliers_removidos_legado.csv;Tabelas;.csv;49423
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\outliers_sinalizados.csv;Tabelas;.csv;1439058
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\precos_nominais_reais_ipca.csv;Tabelas;.csv;78462
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\ranking_postos_semana_comum.csv;Tabelas;.csv;15752
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\resumo_postos.csv;Tabelas;.csv;1091
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\resumo_precos_semana_comum.csv;Tabelas;.csv;1034
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\semanas_vantajosas.csv;Tabelas;.csv;182
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\testes_kruskal_municipios.csv;Tabelas;.csv;439
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\validacao_distancias_osrm.csv;Tabelas;.csv;6289
+Inventário recursivo do workspace, sem conteúdo de .git e da pasta de auditoria.;tabelas\validacao_pipeline_anp.csv;Tabelas;.csv;16289

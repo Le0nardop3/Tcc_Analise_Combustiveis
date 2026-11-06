@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="760" viewBox="0 0 1440 760">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1e2932}.grid{stroke:#dbe2e8;stroke-width:1}.axis{stroke:#475569;stroke-width:1.4}</style>
+<text x="720.0" y="38" text-anchor="middle" font-size="24" font-weight="700">Sensibilidade — diferença semanal média absoluta</text>
+<text x="720.0" y="63" text-anchor="middle" font-size="14" fill="#58636d">Período: 2011–2026</text>
+<line class="grid" x1="105" y1="605.0" x2="1390" y2="605.0"/>
+<text x="93" y="610.0" text-anchor="end" font-size="13">-0.01</text>
+<line class="grid" x1="105" y1="502.0" x2="1390" y2="502.0"/>
+<text x="93" y="507.0" text-anchor="end" font-size="13">0.01</text>
+<line class="grid" x1="105" y1="399.0" x2="1390" y2="399.0"/>
+<text x="93" y="404.0" text-anchor="end" font-size="13">0.03</text>
+<line class="grid" x1="105" y1="296.0" x2="1390" y2="296.0"/>
+<text x="93" y="301.0" text-anchor="end" font-size="13">0.05</text>
+<line class="grid" x1="105" y1="193.0" x2="1390" y2="193.0"/>
+<text x="93" y="198.0" text-anchor="end" font-size="13">0.07</text>
+<line class="grid" x1="105" y1="90.0" x2="1390" y2="90.0"/>
+<text x="93" y="95.0" text-anchor="end" font-size="13">0.09</text>
+<line class="grid" x1="105.0" y1="90" x2="105.0" y2="605"/>
+<text x="105.0" y="629" text-anchor="middle" font-size="13">1970</text>
+<line class="axis" x1="105" y1="90" x2="105" y2="605"/>
+<line class="axis" x1="105" y1="605" x2="1390" y2="605"/>
+<text x="747.5" y="742" text-anchor="middle" font-size="15">Ano</text>
+<text x="25" y="347.5" transform="rotate(-90 25 347.5)" text-anchor="middle" font-size="15">Diferença absoluta média (R$/L)</text>
+<polyline points="105.0,544.8 105.0,531.5 105.0,539.5 105.0,516.1 105.0,420.9 105.0,448.4 105.0,517.9 105.0,394.1 105.0,443.5 105.0,528.0 105.0,235.2 105.0,125.5 105.0,422.8 105.0,505.4 105.0,542.4 105.0,528.0" fill="none" stroke="#2864A5" stroke-width="2.2"/>
+<polyline points="105.0,558.8 105.0,539.5 105.0,505.9 105.0,530.7 105.0,549.2 105.0,530.0 105.0,505.3 105.0,551.4 105.0,552.2 105.0,569.0 105.0,537.9 105.0,482.4 105.0,535.8 105.0,542.2 105.0,539.7 105.0,514.8" fill="none" stroke="#2864A5" stroke-width="2.2" stroke-dasharray="7 4"/>
+<polyline points="105.0,532.8 105.0,517.2 105.0,506.2 105.0,562.8 105.0,491.4 105.0,535.3 105.0,470.1 105.0,507.4 105.0,509.6 105.0,537.4 105.0,547.0 105.0,527.1 105.0,350.6 105.0,263.9 105.0,430.1 105.0,462.0" fill="none" stroke="#D66B35" stroke-width="2.2"/>
+<polyline points="105.0,555.5 105.0,528.7 105.0,526.7 105.0,543.1 105.0,523.4 105.0,528.8 105.0,544.2 105.0,548.7 105.0,441.1 105.0,473.1 105.0,526.6 105.0,530.5 105.0,445.8 105.0,467.5 105.0,483.4 105.0,483.0" fill="none" stroke="#D66B35" stroke-width="2.2" stroke-dasharray="7 4"/>
+<polyline points="105.0,535.8 105.0,558.3 105.0,533.9 105.0,534.2 105.0,560.3 105.0,542.9 105.0,517.3 105.0,510.3 105.0,470.0 105.0,444.5 105.0,482.0 105.0,501.1 105.0,494.4 105.0,535.0 105.0,538.8 105.0,529.4" fill="none" stroke="#348A62" stroke-width="2.2"/>
+<polyline points="105.0,535.3 105.0,535.4 105.0,530.1 105.0,549.7 105.0,545.6 105.0,538.5 105.0,499.6 105.0,539.1 105.0,523.9 105.0,473.7 105.0,510.0 105.0,524.7 105.0,555.2 105.0,552.6 105.0,554.1 105.0,541.2" fill="none" stroke="#348A62" stroke-width="2.2" stroke-dasharray="7 4"/>
+<polyline points="105.0,539.3 105.0,497.1 105.0,519.3 105.0,569.5 105.0,542.9 105.0,546.2 105.0,539.8" fill="none" stroke="#8D5DA7" stroke-width="2.2"/>
+<polyline points="105.0,549.8 105.0,529.6 105.0,561.7 105.0,525.1 105.0,531.8 105.0,456.5 105.0,519.6" fill="none" stroke="#8D5DA7" stroke-width="2.2" stroke-dasharray="7 4"/>
+<line x1="105.0" y1="652.0" x2="130.0" y2="652.0" stroke="#2864A5" stroke-width="2.4"/>
+<text x="137.0" y="657.0" font-size="12">Bayeux — Etanol</text>
+<line x1="426.2" y1="652.0" x2="451.2" y2="652.0" stroke="#2864A5" stroke-width="2.4" stroke-dasharray="7 4"/>
+<text x="458.2" y="657.0" font-size="12">Bayeux — Gasolina</text>
+<line x1="747.5" y1="652.0" x2="772.5" y2="652.0" stroke="#D66B35" stroke-width="2.4"/>
+<text x="779.5" y="657.0" font-size="12">Cabedelo — Etanol</text>
+<line x1="1068.8" y1="652.0" x2="1093.8" y2="652.0" stroke="#D66B35" stroke-width="2.4" stroke-dasharray="7 4"/>
+<text x="1100.8" y="657.0" font-size="12">Cabedelo — Gasolina</text>
+<line x1="105.0" y1="674.0" x2="130.0" y2="674.0" stroke="#348A62" stroke-width="2.4"/>
+<text x="137.0" y="679.0" font-size="12">João Pessoa — Etanol</text>
+<line x1="426.2" y1="674.0" x2="451.2" y2="674.0" stroke="#348A62" stroke-width="2.4" stroke-dasharray="7 4"/>
+<text x="458.2" y="679.0" font-size="12">João Pessoa — Gasolina</text>
+<line x1="747.5" y1="674.0" x2="772.5" y2="674.0" stroke="#8D5DA7" stroke-width="2.4"/>
+<text x="779.5" y="679.0" font-size="12">Santa Rita — Etanol</text>
+<line x1="1068.8" y1="674.0" x2="1093.8" y2="674.0" stroke="#8D5DA7" stroke-width="2.4" stroke-dasharray="7 4"/>
+<text x="1100.8" y="679.0" font-size="12">Santa Rita — Gasolina</text>
+<text x="105" y="718" font-size="12" fill="#58636d">Fonte: Dados/Limpo/precos_rmjp_limpos.parquet; diferença entre cenário sem e com sinalizados.</text>
+</svg>

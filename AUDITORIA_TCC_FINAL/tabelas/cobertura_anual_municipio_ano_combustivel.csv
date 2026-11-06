@@ -1,0 +1,129 @@
+﻿fonte_dados;ano;municipio;produto;semanas_observadas;semanas_com_2_ou_mais_postos;semanas_comuns_8_grupos;postos_distintos_no_ano
+Dados/Analitico/posto_semana.parquet.;2011;BAYEUX;ETANOL;52;52;52;9
+Dados/Analitico/posto_semana.parquet.;2011;BAYEUX;GASOLINA;52;52;52;9
+Dados/Analitico/posto_semana.parquet.;2011;CABEDELO;ETANOL;52;52;52;13
+Dados/Analitico/posto_semana.parquet.;2011;CABEDELO;GASOLINA;52;52;52;13
+Dados/Analitico/posto_semana.parquet.;2011;JOAO PESSOA;ETANOL;52;52;52;90
+Dados/Analitico/posto_semana.parquet.;2011;JOAO PESSOA;GASOLINA;52;52;52;90
+Dados/Analitico/posto_semana.parquet.;2011;SANTA RITA;ETANOL;52;52;52;6
+Dados/Analitico/posto_semana.parquet.;2011;SANTA RITA;GASOLINA;52;52;52;7
+Dados/Analitico/posto_semana.parquet.;2012;BAYEUX;ETANOL;53;53;53;8
+Dados/Analitico/posto_semana.parquet.;2012;BAYEUX;GASOLINA;53;53;53;8
+Dados/Analitico/posto_semana.parquet.;2012;CABEDELO;ETANOL;53;53;53;13
+Dados/Analitico/posto_semana.parquet.;2012;CABEDELO;GASOLINA;53;53;53;13
+Dados/Analitico/posto_semana.parquet.;2012;JOAO PESSOA;ETANOL;53;53;53;97
+Dados/Analitico/posto_semana.parquet.;2012;JOAO PESSOA;GASOLINA;53;53;53;97
+Dados/Analitico/posto_semana.parquet.;2012;SANTA RITA;ETANOL;53;53;53;8
+Dados/Analitico/posto_semana.parquet.;2012;SANTA RITA;GASOLINA;53;53;53;8
+Dados/Analitico/posto_semana.parquet.;2013;BAYEUX;ETANOL;52;52;52;9
+Dados/Analitico/posto_semana.parquet.;2013;BAYEUX;GASOLINA;52;52;52;10
+Dados/Analitico/posto_semana.parquet.;2013;CABEDELO;ETANOL;52;52;52;10
+Dados/Analitico/posto_semana.parquet.;2013;CABEDELO;GASOLINA;52;52;52;11
+Dados/Analitico/posto_semana.parquet.;2013;JOAO PESSOA;ETANOL;52;52;52;96
+Dados/Analitico/posto_semana.parquet.;2013;JOAO PESSOA;GASOLINA;52;52;52;96
+Dados/Analitico/posto_semana.parquet.;2013;SANTA RITA;ETANOL;52;52;52;7
+Dados/Analitico/posto_semana.parquet.;2013;SANTA RITA;GASOLINA;52;52;52;8
+Dados/Analitico/posto_semana.parquet.;2014;BAYEUX;ETANOL;45;45;44;8
+Dados/Analitico/posto_semana.parquet.;2014;BAYEUX;GASOLINA;45;45;44;9
+Dados/Analitico/posto_semana.parquet.;2014;CABEDELO;ETANOL;45;45;44;9
+Dados/Analitico/posto_semana.parquet.;2014;CABEDELO;GASOLINA;45;45;44;10
+Dados/Analitico/posto_semana.parquet.;2014;JOAO PESSOA;ETANOL;44;44;44;80
+Dados/Analitico/posto_semana.parquet.;2014;JOAO PESSOA;GASOLINA;44;44;44;80
+Dados/Analitico/posto_semana.parquet.;2014;SANTA RITA;ETANOL;45;45;44;6
+Dados/Analitico/posto_semana.parquet.;2014;SANTA RITA;GASOLINA;45;45;44;6
+Dados/Analitico/posto_semana.parquet.;2015;BAYEUX;ETANOL;43;43;39;12
+Dados/Analitico/posto_semana.parquet.;2015;BAYEUX;GASOLINA;43;43;39;13
+Dados/Analitico/posto_semana.parquet.;2015;CABEDELO;ETANOL;39;39;39;9
+Dados/Analitico/posto_semana.parquet.;2015;CABEDELO;GASOLINA;39;39;39;10
+Dados/Analitico/posto_semana.parquet.;2015;JOAO PESSOA;ETANOL;51;51;39;82
+Dados/Analitico/posto_semana.parquet.;2015;JOAO PESSOA;GASOLINA;51;51;39;83
+Dados/Analitico/posto_semana.parquet.;2015;SANTA RITA;ETANOL;43;43;39;8
+Dados/Analitico/posto_semana.parquet.;2015;SANTA RITA;GASOLINA;43;43;39;8
+Dados/Analitico/posto_semana.parquet.;2016;BAYEUX;ETANOL;52;52;52;10
+Dados/Analitico/posto_semana.parquet.;2016;BAYEUX;GASOLINA;52;52;52;12
+Dados/Analitico/posto_semana.parquet.;2016;CABEDELO;ETANOL;52;52;52;11
+Dados/Analitico/posto_semana.parquet.;2016;CABEDELO;GASOLINA;52;52;52;11
+Dados/Analitico/posto_semana.parquet.;2016;JOAO PESSOA;ETANOL;52;52;52;68
+Dados/Analitico/posto_semana.parquet.;2016;JOAO PESSOA;GASOLINA;52;52;52;70
+Dados/Analitico/posto_semana.parquet.;2016;SANTA RITA;ETANOL;52;52;52;7
+Dados/Analitico/posto_semana.parquet.;2016;SANTA RITA;GASOLINA;52;52;52;7
+Dados/Analitico/posto_semana.parquet.;2017;BAYEUX;ETANOL;41;41;30;9
+Dados/Analitico/posto_semana.parquet.;2017;BAYEUX;GASOLINA;41;41;30;11
+Dados/Analitico/posto_semana.parquet.;2017;CABEDELO;ETANOL;41;41;30;12
+Dados/Analitico/posto_semana.parquet.;2017;CABEDELO;GASOLINA;41;41;30;12
+Dados/Analitico/posto_semana.parquet.;2017;JOAO PESSOA;ETANOL;52;52;30;61
+Dados/Analitico/posto_semana.parquet.;2017;JOAO PESSOA;GASOLINA;52;52;30;61
+Dados/Analitico/posto_semana.parquet.;2017;SANTA RITA;ETANOL;30;30;30;5
+Dados/Analitico/posto_semana.parquet.;2017;SANTA RITA;GASOLINA;30;30;30;5
+Dados/Analitico/posto_semana.parquet.;2018;BAYEUX;ETANOL;53;52;0;10
+Dados/Analitico/posto_semana.parquet.;2018;BAYEUX;GASOLINA;53;52;0;11
+Dados/Analitico/posto_semana.parquet.;2018;CABEDELO;ETANOL;52;52;0;13
+Dados/Analitico/posto_semana.parquet.;2018;CABEDELO;GASOLINA;53;52;0;13
+Dados/Analitico/posto_semana.parquet.;2018;JOAO PESSOA;ETANOL;53;52;0;73
+Dados/Analitico/posto_semana.parquet.;2018;JOAO PESSOA;GASOLINA;53;52;0;74
+Dados/Analitico/posto_semana.parquet.;2018;SANTA RITA;ETANOL;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2018;SANTA RITA;GASOLINA;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2019;BAYEUX;ETANOL;52;52;0;11
+Dados/Analitico/posto_semana.parquet.;2019;BAYEUX;GASOLINA;52;52;0;11
+Dados/Analitico/posto_semana.parquet.;2019;CABEDELO;ETANOL;52;52;0;11
+Dados/Analitico/posto_semana.parquet.;2019;CABEDELO;GASOLINA;52;52;0;11
+Dados/Analitico/posto_semana.parquet.;2019;JOAO PESSOA;ETANOL;52;52;0;83
+Dados/Analitico/posto_semana.parquet.;2019;JOAO PESSOA;GASOLINA;52;52;0;84
+Dados/Analitico/posto_semana.parquet.;2019;SANTA RITA;ETANOL;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2019;SANTA RITA;GASOLINA;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2020;BAYEUX;ETANOL;40;40;0;11
+Dados/Analitico/posto_semana.parquet.;2020;BAYEUX;GASOLINA;40;40;0;11
+Dados/Analitico/posto_semana.parquet.;2020;CABEDELO;ETANOL;40;40;0;12
+Dados/Analitico/posto_semana.parquet.;2020;CABEDELO;GASOLINA;40;40;0;12
+Dados/Analitico/posto_semana.parquet.;2020;JOAO PESSOA;ETANOL;44;44;0;79
+Dados/Analitico/posto_semana.parquet.;2020;JOAO PESSOA;GASOLINA;44;44;0;80
+Dados/Analitico/posto_semana.parquet.;2020;SANTA RITA;ETANOL;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2020;SANTA RITA;GASOLINA;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2021;BAYEUX;ETANOL;46;46;0;8
+Dados/Analitico/posto_semana.parquet.;2021;BAYEUX;GASOLINA;46;46;0;8
+Dados/Analitico/posto_semana.parquet.;2021;CABEDELO;ETANOL;52;51;0;7
+Dados/Analitico/posto_semana.parquet.;2021;CABEDELO;GASOLINA;52;51;0;7
+Dados/Analitico/posto_semana.parquet.;2021;JOAO PESSOA;ETANOL;52;52;0;72
+Dados/Analitico/posto_semana.parquet.;2021;JOAO PESSOA;GASOLINA;52;52;0;72
+Dados/Analitico/posto_semana.parquet.;2021;SANTA RITA;ETANOL;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2021;SANTA RITA;GASOLINA;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2022;BAYEUX;ETANOL;47;47;0;7
+Dados/Analitico/posto_semana.parquet.;2022;BAYEUX;GASOLINA;47;47;0;8
+Dados/Analitico/posto_semana.parquet.;2022;CABEDELO;ETANOL;38;38;0;10
+Dados/Analitico/posto_semana.parquet.;2022;CABEDELO;GASOLINA;38;38;0;10
+Dados/Analitico/posto_semana.parquet.;2022;JOAO PESSOA;ETANOL;51;51;0;71
+Dados/Analitico/posto_semana.parquet.;2022;JOAO PESSOA;GASOLINA;51;51;0;72
+Dados/Analitico/posto_semana.parquet.;2022;SANTA RITA;ETANOL;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2022;SANTA RITA;GASOLINA;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2023;BAYEUX;ETANOL;52;52;0;6
+Dados/Analitico/posto_semana.parquet.;2023;BAYEUX;GASOLINA;52;52;0;8
+Dados/Analitico/posto_semana.parquet.;2023;CABEDELO;ETANOL;52;52;0;10
+Dados/Analitico/posto_semana.parquet.;2023;CABEDELO;GASOLINA;52;52;0;10
+Dados/Analitico/posto_semana.parquet.;2023;JOAO PESSOA;ETANOL;52;52;0;38
+Dados/Analitico/posto_semana.parquet.;2023;JOAO PESSOA;GASOLINA;52;52;0;37
+Dados/Analitico/posto_semana.parquet.;2023;SANTA RITA;ETANOL;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2023;SANTA RITA;GASOLINA;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2024;BAYEUX;ETANOL;52;52;0;9
+Dados/Analitico/posto_semana.parquet.;2024;BAYEUX;GASOLINA;52;52;0;11
+Dados/Analitico/posto_semana.parquet.;2024;CABEDELO;ETANOL;53;53;0;10
+Dados/Analitico/posto_semana.parquet.;2024;CABEDELO;GASOLINA;53;53;0;10
+Dados/Analitico/posto_semana.parquet.;2024;JOAO PESSOA;ETANOL;53;53;0;53
+Dados/Analitico/posto_semana.parquet.;2024;JOAO PESSOA;GASOLINA;53;53;0;55
+Dados/Analitico/posto_semana.parquet.;2024;SANTA RITA;ETANOL;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2024;SANTA RITA;GASOLINA;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2025;BAYEUX;ETANOL;51;51;0;9
+Dados/Analitico/posto_semana.parquet.;2025;BAYEUX;GASOLINA;51;51;0;9
+Dados/Analitico/posto_semana.parquet.;2025;CABEDELO;ETANOL;52;52;0;8
+Dados/Analitico/posto_semana.parquet.;2025;CABEDELO;GASOLINA;52;52;0;9
+Dados/Analitico/posto_semana.parquet.;2025;JOAO PESSOA;ETANOL;52;52;0;35
+Dados/Analitico/posto_semana.parquet.;2025;JOAO PESSOA;GASOLINA;52;52;0;37
+Dados/Analitico/posto_semana.parquet.;2025;SANTA RITA;ETANOL;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2025;SANTA RITA;GASOLINA;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2026;BAYEUX;ETANOL;25;25;0;9
+Dados/Analitico/posto_semana.parquet.;2026;BAYEUX;GASOLINA;25;25;0;9
+Dados/Analitico/posto_semana.parquet.;2026;CABEDELO;ETANOL;25;25;0;9
+Dados/Analitico/posto_semana.parquet.;2026;CABEDELO;GASOLINA;25;25;0;10
+Dados/Analitico/posto_semana.parquet.;2026;JOAO PESSOA;ETANOL;26;26;0;46
+Dados/Analitico/posto_semana.parquet.;2026;JOAO PESSOA;GASOLINA;26;26;0;50
+Dados/Analitico/posto_semana.parquet.;2026;SANTA RITA;ETANOL;0;0;0;0
+Dados/Analitico/posto_semana.parquet.;2026;SANTA RITA;GASOLINA;0;0;0;0

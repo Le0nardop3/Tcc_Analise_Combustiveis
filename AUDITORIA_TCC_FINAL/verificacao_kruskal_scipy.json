@@ -1,0 +1,7 @@
+{
+  "status": "APROVADO",
+  "testes": 14,
+  "max_abs_diferenca_H": 1.1435297153639112e-13,
+  "max_abs_diferenca_p": 2.4646951146678475e-14,
+  "comparador": "scipy.stats.kruskal em Python 3.10 existente"
+}

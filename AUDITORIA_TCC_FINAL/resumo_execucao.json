@@ -1,0 +1,260 @@
+{
+  "execucao_local": "2026-11-06T07:23:30-03:00",
+  "base_preco_inicio": "2011-01-03",
+  "base_preco_fim": "2026-06-29",
+  "registros_posto_semana": 69285,
+  "postos_distintos": 205,
+  "municipios": [
+    "BAYEUX",
+    "CABEDELO",
+    "JOAO PESSOA",
+    "SANTA RITA"
+  ],
+  "chaves_posto_semana_duplicadas": 0,
+  "ipca": {
+    "arquivo": "Dados\\Analitico\\ipca.csv",
+    "linhas_ipca_validas": 562,
+    "inicio_ipca": "1979-12-01 00:00:00",
+    "fim_ipca": "2026-09-01 00:00:00",
+    "inicio_precos": "2011-01-03 00:00:00",
+    "fim_precos": "2026-06-29 00:00:00",
+    "mes_base": "2026-06-01 00:00:00",
+    "indice_ipca_mes_base": 7652.37,
+    "grupos_mensais_sem_indice": 0,
+    "grupos_mensais_cobertos": 1250
+  },
+  "semanas_comuns_oito_grupos": 322,
+  "ultima_semana_comum": "2017-07-24",
+  "semana_2017_07_24": [
+    {
+      "semana": "2017-07-24 00:00:00",
+      "municipio": "BAYEUX",
+      "produto": "ETANOL",
+      "postos_distintos": 6,
+      "ano": 2017,
+      "semanas_com_2_ou_mais_postos": true,
+      "semana_comum_8_grupos": true
+    },
+    {
+      "semana": "2017-07-24 00:00:00",
+      "municipio": "BAYEUX",
+      "produto": "GASOLINA",
+      "postos_distintos": 7,
+      "ano": 2017,
+      "semanas_com_2_ou_mais_postos": true,
+      "semana_comum_8_grupos": true
+    },
+    {
+      "semana": "2017-07-24 00:00:00",
+      "municipio": "CABEDELO",
+      "produto": "ETANOL",
+      "postos_distintos": 5,
+      "ano": 2017,
+      "semanas_com_2_ou_mais_postos": true,
+      "semana_comum_8_grupos": true
+    },
+    {
+      "semana": "2017-07-24 00:00:00",
+      "municipio": "CABEDELO",
+      "produto": "GASOLINA",
+      "postos_distintos": 6,
+      "ano": 2017,
+      "semanas_com_2_ou_mais_postos": true,
+      "semana_comum_8_grupos": true
+    },
+    {
+      "semana": "2017-07-24 00:00:00",
+      "municipio": "JOAO PESSOA",
+      "produto": "ETANOL",
+      "postos_distintos": 17,
+      "ano": 2017,
+      "semanas_com_2_ou_mais_postos": true,
+      "semana_comum_8_grupos": true
+    },
+    {
+      "semana": "2017-07-24 00:00:00",
+      "municipio": "JOAO PESSOA",
+      "produto": "GASOLINA",
+      "postos_distintos": 16,
+      "ano": 2017,
+      "semanas_com_2_ou_mais_postos": true,
+      "semana_comum_8_grupos": true
+    },
+    {
+      "semana": "2017-07-24 00:00:00",
+      "municipio": "SANTA RITA",
+      "produto": "ETANOL",
+      "postos_distintos": 3,
+      "ano": 2017,
+      "semanas_com_2_ou_mais_postos": true,
+      "semana_comum_8_grupos": true
+    },
+    {
+      "semana": "2017-07-24 00:00:00",
+      "municipio": "SANTA RITA",
+      "produto": "GASOLINA",
+      "postos_distintos": 3,
+      "ano": 2017,
+      "semanas_com_2_ou_mais_postos": true,
+      "semana_comum_8_grupos": true
+    }
+  ],
+  "kruskal_testes": 14,
+  "kruskal_significativos_brutos": 2,
+  "kruskal_significativos_holm": 1,
+  "sensibilidade_resumo": [
+    {
+      "municipio": "BAYEUX",
+      "produto": "ETANOL",
+      "grupos_semana": 756,
+      "grupos_com_registros_sinalizados": 354,
+      "grupos_afetados_limite_1_centavo": 298,
+      "grupos_com_mudanca_amplitude_maior_1_centavo": 350,
+      "diferenca_media_preco": -0.018176060300663495,
+      "erro_absoluto_medio_preco": 0.021472755521961887,
+      "diferenca_maxima_absoluta_preco": 0.2450000000000001,
+      "diferenca_media_cv_pp": -1.0116266813898556
+    },
+    {
+      "municipio": "BAYEUX",
+      "produto": "GASOLINA",
+      "grupos_semana": 756,
+      "grupos_com_registros_sinalizados": 236,
+      "grupos_afetados_limite_1_centavo": 178,
+      "grupos_com_mudanca_amplitude_maior_1_centavo": 234,
+      "diferenca_media_preco": -0.0027165585369950556,
+      "erro_absoluto_medio_preco": 0.006315229486856477,
+      "diferenca_maxima_absoluta_preco": 0.07207142857142923,
+      "diferenca_media_cv_pp": -0.3095514097081749
+    },
+    {
+      "municipio": "CABEDELO",
+      "produto": "ETANOL",
+      "grupos_semana": 750,
+      "grupos_com_registros_sinalizados": 320,
+      "grupos_afetados_limite_1_centavo": 267,
+      "grupos_com_mudanca_amplitude_maior_1_centavo": 319,
+      "diferenca_media_preco": -0.009150386243386247,
+      "erro_absoluto_medio_preco": 0.015797846560846554,
+      "diferenca_maxima_absoluta_preco": 0.16666666666666696,
+      "diferenca_media_cv_pp": -0.7979048262198926
+    },
+    {
+      "municipio": "CABEDELO",
+      "produto": "GASOLINA",
+      "grupos_semana": 751,
+      "grupos_com_registros_sinalizados": 315,
+      "grupos_afetados_limite_1_centavo": 261,
+      "grupos_com_mudanca_amplitude_maior_1_centavo": 310,
+      "diferenca_media_preco": -0.002109614693635986,
+      "erro_absoluto_medio_preco": 0.010923864476993643,
+      "diferenca_maxima_absoluta_preco": 0.13600000000000012,
+      "diferenca_media_cv_pp": -0.43245645860268
+    },
+    {
+      "municipio": "JOAO PESSOA",
+      "produto": "ETANOL",
+      "grupos_semana": 791,
+      "grupos_com_registros_sinalizados": 420,
+      "grupos_afetados_limite_1_centavo": 268,
+      "grupos_com_mudanca_amplitude_maior_1_centavo": 417,
+      "diferenca_media_preco": -0.006194094177613714,
+      "erro_absoluto_medio_preco": 0.009325795175542108,
+      "diferenca_maxima_absoluta_preco": 0.0934161490683234,
+      "diferenca_media_cv_pp": -0.6222162415490777
+    },
+    {
+      "municipio": "JOAO PESSOA",
+      "produto": "GASOLINA",
+      "grupos_semana": 791,
+      "grupos_com_registros_sinalizados": 439,
+      "grupos_afetados_limite_1_centavo": 188,
+      "grupos_com_mudanca_amplitude_maior_1_centavo": 434,
+      "diferenca_media_preco": -0.0030201491282268703,
+      "erro_absoluto_medio_preco": 0.00683397867044025,
+      "diferenca_maxima_absoluta_preco": 0.062208333333333865,
+      "diferenca_media_cv_pp": -0.4276195111956023
+    },
+    {
+      "municipio": "SANTA RITA",
+      "produto": "ETANOL",
+      "grupos_semana": 327,
+      "grupos_com_registros_sinalizados": 66,
+      "grupos_afetados_limite_1_centavo": 58,
+      "grupos_com_mudanca_amplitude_maior_1_centavo": 62,
+      "diferenca_media_preco": 0.002518610747051112,
+      "erro_absoluto_medio_preco": 0.0062672491626619975,
+      "diferenca_maxima_absoluta_preco": 0.07765714285714287,
+      "diferenca_media_cv_pp": -0.3289503662533924
+    },
+    {
+      "municipio": "SANTA RITA",
+      "produto": "GASOLINA",
+      "grupos_semana": 327,
+      "grupos_com_registros_sinalizados": 76,
+      "grupos_afetados_limite_1_centavo": 69,
+      "grupos_com_mudanca_amplitude_maior_1_centavo": 76,
+      "diferenca_media_preco": 0.0002481614970146945,
+      "erro_absoluto_medio_preco": 0.008092474879860206,
+      "diferenca_maxima_absoluta_preco": 0.10258333333333303,
+      "diferenca_media_cv_pp": -0.3188254189041328
+    }
+  ],
+  "validacao_anp": {
+    "status": "concluido",
+    "arquivos_oficiais": [
+      "fontes\\semanal-municipio-2024-2025.xlsx",
+      "fontes\\semanal-municipios-2026.xlsx"
+    ],
+    "semanas_disponiveis_coincidentes": 131,
+    "semanas_amostradas": 30,
+    "comparacoes_validas": 178,
+    "diferenca_media_assinada_reais_litro": 0.004133646761483984,
+    "erro_medio_absoluto_reais_litro": 0.004133646761484024,
+    "correlacao_pearson": 0.9999940905261698,
+    "inicio_amostra": "2024-01-01",
+    "fim_amostra": "2026-06-29",
+    "municipios": [
+      "BAYEUX",
+      "CABEDELO",
+      "JOAO PESSOA"
+    ],
+    "comparacoes_mesmo_numero_postos": 178,
+    "diferenca_media_absoluta_numero_postos": 0.0
+  },
+  "coordenadas": {
+    "postos_na_base": 205,
+    "postos_cache_coordenadas": 205,
+    "postos_com_lat_lon_numericas": 201,
+    "postos_com_coordenadas_em_faixa_RMJP": 201,
+    "postos_sem_coordenada_ou_fora_da_faixa": 4,
+    "ids_com_coordenadas_ambiguas": 0,
+    "ceps_com_coordenada_validada": 129,
+    "limites_validacao_lat_lon": {
+      "latitude": [
+        -7.5,
+        -6.7
+      ],
+      "longitude": [
+        -35.4,
+        -34.4
+      ]
+    }
+  },
+  "osrm": {
+    "pares_planejados": 25,
+    "pares_com_rota_osrm_valida": 25,
+    "semente": 20261106,
+    "origem_coordinate_source": "cache local Dados/Analitico/coordenadas_cep.parquet",
+    "destino_coordinate_source": "cache local Dados/Analitico/coordenadas_postos.parquet",
+    "erro_medio_assinado_osrm_menos_reta_km": 2.6484291101229296,
+    "erro_medio_absoluto_km": 2.6484291101229296,
+    "erro_percentual_absoluto_medio_sobre_osrm": 39.22830105880251,
+    "correlacao_pearson_reta_vs_osrm": 0.8916284167708356
+  },
+  "integridade": {
+    "sem_alteracoes": true,
+    "arquivos_comparados": 21,
+    "arquivos_alterados_ou_ausentes": []
+  }
+}

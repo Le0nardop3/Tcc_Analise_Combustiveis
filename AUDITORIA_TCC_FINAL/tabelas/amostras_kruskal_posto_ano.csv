@@ -1,0 +1,1542 @@
+﻿fonte_dados;ano;produto;municipio;id_posto;preco_mediano_anual_posto
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;BAYEUX;01420327000185;2,14
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;BAYEUX;01633732000181;2,105
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;BAYEUX;03450959000117;2,1174999999999997
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;BAYEUX;05325947000196;2,0244999999999997
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;BAYEUX;06180206000127;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;BAYEUX;07211715000132;2,07
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;BAYEUX;09230509000103;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;BAYEUX;09359690000144;2,08
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;BAYEUX;10542290000159;1,86
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;03295844000103;2,26
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;03503635000108;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;03861460000100;2,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;04023567000134;1,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;09220427000170;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;09352634000269;2,3
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;11372084000704;1,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;11804319000196;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;12778220000120;2,08
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;24505604000158;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;41198466000120;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;45543915032547;2,07
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;CABEDELO;70098470000468;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;00289351000164;1,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;00378736000106;2,119
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;00380540000148;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;01256702000101;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;01420327000266;2,14
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;01720637000115;2,198
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;01765332000120;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;01857272000175;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;02433147000109;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;03406538000199;1,986
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;03473780000185;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;03499512000132;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;03604229000123;2,149
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;03690688000177;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;04200651000186;2,05
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;04207371000108;1,994
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;04209860000190;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;04227132000101;1,95
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;04690510000199;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;04704550000142;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;04863475000162;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;04970266000118;1,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;04976690000170;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;05040093000100;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;05202017000145;2,119
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;05248833000190;2,1955
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;05302544000121;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;05326045000174;2,03
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;05366353000123;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;05564031000199;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;05661052000122;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;05725563000160;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;05747008000130;2,07
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;06137380000197;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;06293662000183;1,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;06299899000171;1,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;06299899000252;2,075
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;06974840000131;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;07000707000147;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;07000707000228;1,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;07063185000122;1,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;07176121000138;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;07343285000102;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;07613186000101;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;07686979000142;2,08
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;07913264000185;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;08240660000151;2,07
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;08293883000187;1,98
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;08299372000172;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;08301012000168;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;08429323000107;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;08429325000104;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;08435592000186;2,079
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;08697211000137;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;08848483000190;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;08932269000118;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;09062603000192;1,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;09141763000399;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;09141763000550;1,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;09385007000143;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;10580955000119;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;10589308000178;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;10827134000134;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;10851582000335;2,17
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;10851582000416;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;10873522000151;2,149
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;11186284000179;1,98
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;11372084000100;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;11372084000291;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;11372084000372;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;11372084000453;2,05
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;11372084000534;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;11372084000615;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;11701535000106;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;12617650000160;1,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;12928917000210;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;35437342000158;2,175
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;40965634000284;1,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;40965634000870;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;40965634001256;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;40974412000147;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;41118415000141;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;41123266000109;2,159
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;41145020000138;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;41219874000111;1,96
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;47508411122855;2,049
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;70098470000620;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;70098470000891;1,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;70098470000972;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;JOAO PESSOA;70108154000187;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;SANTA RITA;01660981000166;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;SANTA RITA;02481371000168;2,0445
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;SANTA RITA;03307001000171;2,0395000000000003
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;SANTA RITA;05487945000101;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;SANTA RITA;06350172000171;2,12
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;ETANOL;SANTA RITA;08904492000151;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;BAYEUX;01420327000185;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;BAYEUX;01633732000181;2,45
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;BAYEUX;03450959000117;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;BAYEUX;05325947000196;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;BAYEUX;06180206000127;2,465
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;BAYEUX;07211715000132;2,64
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;BAYEUX;09230509000103;2,4450000000000003
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;BAYEUX;09359690000144;2,61
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;BAYEUX;10542290000159;2,4850000000000003
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;03295844000103;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;03503635000108;2,52
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;03861460000100;2,68
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;04023567000134;2,44
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;09220427000170;2,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;09352634000269;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;11372084000704;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;11804319000196;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;12778220000120;2,52
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;24505604000158;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;41198466000120;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;45543915032547;2,47
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;CABEDELO;70098470000468;2,45
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;00289351000164;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;00378736000106;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;00380540000148;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;01256702000101;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;01420327000266;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;01720637000115;2,598
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;01765332000120;2,598
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;01857272000175;2,56
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;02433147000109;2,549
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;03406538000199;2,397
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;03473780000185;2,549
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;03499512000132;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;03604229000123;2,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;03690688000177;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;04200651000186;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;04207371000108;2,549
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;04209860000190;2,33
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;04227132000101;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;04690510000199;2,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;04704550000142;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;04863475000162;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;04970266000118;2,35
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;04976690000170;2,47
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;05040093000100;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;05202017000145;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;05248833000190;2,619
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;05302544000121;2,539
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;05326045000174;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;05366353000123;2,45
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;05564031000199;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;05661052000122;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;05725563000160;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;05747008000130;2,649
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;06137380000197;2,48
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;06293662000183;2,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;06299899000171;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;06299899000252;2,4445
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;06974840000131;2,54
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;07000707000147;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;07000707000228;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;07063185000122;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;07176121000138;2,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;07343285000102;2,489
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;07613186000101;2,549
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;07686979000142;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;07913264000185;2,5694999999999997
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;08240660000151;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;08293883000187;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;08299372000172;2,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;08301012000168;2,579
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;08429323000107;2,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;08429325000104;2,46
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;08435592000186;2,549
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;08697211000137;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;08848483000190;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;08932269000118;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;09062603000192;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;09141763000399;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;09141763000550;2,4895
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;09385007000143;2,339
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;10580955000119;2,579
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;10589308000178;2,339
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;10827134000134;2,439
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;10851582000335;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;10851582000416;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;10873522000151;2,484
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;11186284000179;2,48
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;11372084000100;2,48
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;11372084000291;2,48
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;11372084000372;2,47
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;11372084000453;2,47
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;11372084000534;2,47
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;11372084000615;2,475
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;11701535000106;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;12617650000160;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;12928917000210;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;35437342000158;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;40965634000284;2,55
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;40965634000870;2,48
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;40965634001256;2,47
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;40974412000147;2,588
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;41118415000141;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;41123266000109;2,54
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;41145020000138;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;41219874000111;2,56
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;47508411122855;2,469
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;70098470000620;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;70098470000891;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;70098470000972;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;JOAO PESSOA;70108154000187;2,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;SANTA RITA;01660981000166;2,41
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;SANTA RITA;02481371000168;2,4050000000000002
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;SANTA RITA;03307001000171;2,51
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;SANTA RITA;05487945000101;2,38
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;SANTA RITA;06350172000171;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;SANTA RITA;08904492000151;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2011;GASOLINA;SANTA RITA;09428830000199;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;BAYEUX;01420327000185;2,14
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;BAYEUX;01633732000181;2,13
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;BAYEUX;03450959000117;2,16
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;BAYEUX;05325947000196;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;BAYEUX;06180206000127;2,12
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;BAYEUX;07211715000132;2,26
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;BAYEUX;09230509000103;2,14
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;BAYEUX;09359690000144;2,11
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;03295844000103;2,26
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;03503635000108;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;03861460000100;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;04023567000134;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;09220427000170;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;09352634000269;2,23
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;11372084000704;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;11804319000196;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;12778220000120;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;24505604000158;1,88
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;41198466000120;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;45543915032547;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;CABEDELO;70098470000468;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;00289351000164;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;00378736000106;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;00380540000148;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;01256702000101;2,27
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;01420327000266;2,1
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;01720637000115;2,198
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;01765332000120;2,17
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;01857272000175;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;02433147000109;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;02728991000159;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;03406538000199;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;03473780000185;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;03499512000132;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;03604229000123;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;03690688000177;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;04200651000186;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;04207371000108;2,179
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;04209860000190;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;04227132000101;2,05
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;04553372000104;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;04581886000165;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;04690510000199;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;04704550000142;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;04863475000162;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;04976690000170;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05040093000100;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05202017000145;2,188
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05248833000190;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05302544000121;2,129
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05323723000145;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05326045000174;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05366353000123;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05485176000102;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05564031000199;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05661052000122;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05725563000160;2,279
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05747008000130;2,27
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;05790929000185;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;06137380000197;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;06293662000183;1,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;06299899000171;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;06299899000252;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;06974840000131;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;07000707000147;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;07000707000228;2,1395
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;07063185000122;2,219
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;07176121000138;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;07343285000102;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;07613186000101;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;07686979000142;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;07913264000185;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;08240660000151;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;08293883000187;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;08299372000172;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;08301012000168;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;08429323000107;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;08429325000104;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;08435592000186;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;08697211000137;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;08848483000190;2,17
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;08932269000118;2,169
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;09062603000192;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;09125965000185;2,159
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;09141763000399;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;09141763000550;2,27
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;09385007000143;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;10580955000119;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;10589308000178;2,179
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;10827134000134;2,1845
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;10851582000335;2,165
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;10851582000416;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;10873522000151;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;10888859000132;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;11186284000179;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;11372084000100;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;11372084000291;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;11372084000372;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;11372084000453;2,1399999999999997
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;11372084000534;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;11372084000615;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;11601184000242;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;11701535000106;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;12617650000160;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;12928917000210;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;35437342000158;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;40965634000870;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;40965634001256;2,1399999999999997
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;40974412000147;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;41118415000141;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;41123266000109;2,179
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;41145020000138;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;41219874000111;2,098
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;47508411122855;2,129
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;70098470000620;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;70098470000891;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;70098470000972;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;JOAO PESSOA;70108154000187;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;SANTA RITA;01660981000166;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;SANTA RITA;01664503000124;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;SANTA RITA;02481371000168;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;SANTA RITA;03307001000171;1,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;SANTA RITA;05487945000101;2,076
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;SANTA RITA;06350172000171;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;SANTA RITA;08904492000151;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;ETANOL;SANTA RITA;09428830000199;2,05
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;BAYEUX;01420327000185;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;BAYEUX;01633732000181;2,37
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;BAYEUX;03450959000117;2,54
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;BAYEUX;05325947000196;2,55
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;BAYEUX;06180206000127;2,52
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;BAYEUX;07211715000132;2,62
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;BAYEUX;09230509000103;2,55
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;BAYEUX;09359690000144;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;03295844000103;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;03503635000108;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;03861460000100;2,669
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;04023567000134;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;09220427000170;2,67
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;09352634000269;2,62
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;11372084000704;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;11804319000196;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;12778220000120;2,55
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;24505604000158;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;41198466000120;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;45543915032547;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;CABEDELO;70098470000468;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;00289351000164;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;00378736000106;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;00380540000148;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;01256702000101;2,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;01420327000266;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;01720637000115;2,688
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;01765332000120;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;01857272000175;2,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;02433147000109;2,4445
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;02728991000159;2,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;03406538000199;2,557
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;03473780000185;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;03499512000132;2,54
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;03604229000123;2,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;03690688000177;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;04200651000186;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;04207371000108;2,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;04209860000190;2,605
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;04227132000101;2,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;04553372000104;2,65
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;04581886000165;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;04690510000199;2,5845000000000002
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;04704550000142;2,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;04863475000162;2,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;04976690000170;2,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05040093000100;2,6745
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05202017000145;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05248833000190;2,679
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05302544000121;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05323723000145;2,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05326045000174;2,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05366353000123;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05485176000102;2,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05564031000199;2,62
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05661052000122;2,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05725563000160;2,679
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05747008000130;2,67
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;05790929000185;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;06137380000197;2,658
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;06293662000183;2,579
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;06299899000171;2,54
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;06299899000252;2,55
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;06974840000131;2,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;07000707000147;2,67
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;07000707000228;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;07063185000122;2,669
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;07176121000138;2,65
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;07343285000102;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;07613186000101;2,579
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;07686979000142;2,659
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;07913264000185;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;08240660000151;2,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;08293883000187;2,579
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;08299372000172;2,625
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;08301012000168;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;08429323000107;2,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;08429325000104;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;08435592000186;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;08697211000137;2,688
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;08848483000190;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;08932269000118;2,579
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;09062603000192;2,539
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;09125965000185;2,6195
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;09141763000399;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;09141763000550;2,61
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;09385007000143;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;10580955000119;2,65
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;10589308000178;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;10827134000134;2,56
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;10851582000335;2,465
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;10851582000416;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;10873522000151;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;10888859000132;2,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;11186284000179;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;11372084000100;2,66
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;11372084000291;2,66
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;11372084000372;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;11372084000453;2,625
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;11372084000534;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;11372084000615;2,55
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;11601184000242;2,67
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;11701535000106;2,68
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;12617650000160;2,389
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;12928917000210;2,65
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;35437342000158;2,57
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;40965634000870;2,55
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;40965634001256;2,585
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;40974412000147;2,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;41118415000141;2,685
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;41123266000109;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;41145020000138;2,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;41219874000111;2,588
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;47508411122855;2,549
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;70098470000620;2,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;70098470000891;2,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;70098470000972;2,6295
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;JOAO PESSOA;70108154000187;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;SANTA RITA;01660981000166;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;SANTA RITA;01664503000124;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;SANTA RITA;02481371000168;2,45
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;SANTA RITA;03307001000171;2,48
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;SANTA RITA;05487945000101;2,439
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;SANTA RITA;06350172000171;2,598
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;SANTA RITA;08904492000151;2,598
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2012;GASOLINA;SANTA RITA;09428830000199;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;BAYEUX;01420327000185;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;BAYEUX;01633732000181;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;BAYEUX;03450959000117;2,36
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;BAYEUX;05325947000196;2,27
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;BAYEUX;06180206000127;2,129
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;BAYEUX;09230509000103;2,149
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;BAYEUX;09359690000144;2,359
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;BAYEUX;10542290000159;2,36
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;BAYEUX;24206617002170;2,36
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;CABEDELO;03861460000100;2,26
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;CABEDELO;04023567000134;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;CABEDELO;09220427000170;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;CABEDELO;09352634000269;2,48
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;CABEDELO;11372084000704;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;CABEDELO;11804319000196;2,289
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;CABEDELO;12778220000120;2,26
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;CABEDELO;41198466000120;2,38
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;CABEDELO;45543915032547;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;CABEDELO;70098470000468;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;00289351000164;2,249
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;00378736000106;2,159
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;00380540000148;2,289
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;01256702000101;2,379
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;01420327000266;2,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;01720637000115;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;01765332000120;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;01857272000175;2,14
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;02433147000109;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;02728991000159;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;03406538000199;2,153
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;03499512000132;2,385
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;03604229000123;2,2195
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;03690688000177;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04200651000186;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04207371000108;2,24
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04209860000190;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04227132000101;2,21
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04553372000104;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04581886000165;2,33
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04690510000199;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04704550000142;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04863475000162;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04896864000194;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;04976690000170;2,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05040093000100;2,3395
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05202017000145;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05248833000190;2,31
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05302544000121;2,249
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05326045000174;2,289
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05366353000123;2,33
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05485176000102;2,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05564031000199;2,26
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05661052000122;2,27
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05725563000160;2,33
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05747008000130;2,36
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;05790929000185;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;06137380000197;2,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;06293662000183;2,136
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;06299899000171;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;06299899000252;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;06974840000131;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;07000707000147;2,32
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;07000707000228;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;07063185000122;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;07176121000138;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;07343285000102;2,249
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;07409732000189;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;07613186000101;2,439
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;07686979000142;2,2
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;07913264000185;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;08240660000151;2,36
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;08293883000187;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;08299372000172;2,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;08301012000168;2,27
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;08429323000107;2,289
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;08429325000104;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;08435592000186;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;08932269000118;2,339
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;09062603000192;2,339
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;09125965000185;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;09141763000399;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;09141763000550;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;09385007000143;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;10580955000119;2,2895000000000003
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;10589308000178;2,27
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;10619077000106;2,33
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;10827134000134;2,339
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;10851582000335;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;10851582000416;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;10873522000151;2,269
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;10888859000132;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;11186284000179;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;11372084000100;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;11372084000291;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;11372084000372;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;11372084000453;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;11372084000534;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;11372084000615;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;11601184000242;2,36
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;11701535000106;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;12617650000160;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;12928917000210;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;35437342000158;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;40965634000870;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;40965634001337;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;40974412000147;2,35
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;41118415000141;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;41123266000109;2,295
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;41145020000138;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;41219874000111;2,27
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;47508411122855;2,179
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;70098470000620;2,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;70098470000891;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;70098470000972;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;JOAO PESSOA;70108154000187;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;SANTA RITA;01660981000166;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;SANTA RITA;01664503000124;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;SANTA RITA;02481371000168;2,2
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;SANTA RITA;03307001000171;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;SANTA RITA;05487945000101;2,0
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;SANTA RITA;06350172000171;2,3
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;ETANOL;SANTA RITA;08904492000151;2,475
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;BAYEUX;01420327000185;2,67
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;BAYEUX;01633732000181;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;BAYEUX;03450959000117;2,73
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;BAYEUX;05325947000196;2,739
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;BAYEUX;06180206000127;2,73
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;BAYEUX;07211715000132;2,91
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;BAYEUX;09230509000103;2,7
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;BAYEUX;09359690000144;2,789
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;BAYEUX;10542290000159;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;BAYEUX;24206617002170;2,73
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;03295844000103;2,779
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;03861460000100;2,784
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;04023567000134;2,879
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;09220427000170;2,779
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;09352634000269;2,88
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;11372084000704;2,765
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;11804319000196;2,78
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;12778220000120;2,739
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;41198466000120;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;45543915032547;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;CABEDELO;70098470000468;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;00289351000164;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;00378736000106;2,789
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;00380540000148;2,729
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;01256702000101;2,739
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;01420327000266;2,7
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;01720637000115;2,758
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;01765332000120;2,738
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;01857272000175;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;02433147000109;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;02728991000159;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;03406538000199;2,7140000000000004
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;03499512000132;2,73
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;03604229000123;2,7
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;03690688000177;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04200651000186;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04207371000108;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04209860000190;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04227132000101;2,77
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04553372000104;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04581886000165;2,815
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04690510000199;2,7
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04704550000142;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04863475000162;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04896864000194;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;04976690000170;2,739
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05040093000100;2,7995
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05202017000145;2,758
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05248833000190;2,86
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05302544000121;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05326045000174;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05366353000123;2,83
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05485176000102;2,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05564031000199;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05661052000122;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05725563000160;2,739
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05747008000130;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;05790929000185;2,719
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;06137380000197;2,738
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;06293662000183;2,7
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;06299899000171;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;06299899000252;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;06974840000131;2,849
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;07000707000147;2,729
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;07000707000228;2,7695
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;07063185000122;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;07176121000138;2,739
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;07343285000102;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;07409732000189;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;07613186000101;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;07686979000142;2,71
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;07913264000185;2,65
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;08240660000151;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;08293883000187;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;08299372000172;2,709
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;08301012000168;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;08429323000107;2,709
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;08429325000104;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;08435592000186;2,71
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;08932269000118;2,745
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;09062603000192;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;09125965000185;2,73
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;09141763000399;2,84
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;09141763000550;2,87
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;09385007000143;2,67
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;10580955000119;2,7889999999999997
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;10589308000178;2,775
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;10619077000106;2,87
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;10827134000134;2,759
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;10851582000335;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;10851582000416;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;10873522000151;2,7395
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;10888859000132;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;11186284000179;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;11372084000100;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;11372084000291;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;11372084000372;2,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;11372084000453;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;11372084000534;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;11372084000615;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;11601184000242;2,785
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;11701535000106;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;12617650000160;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;12928917000210;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;35437342000158;2,7445000000000004
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;40965634000870;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;40965634001337;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;40974412000147;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;41118415000141;2,742
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;41123266000109;2,769
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;41145020000138;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;41219874000111;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;47508411122855;2,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;70098470000620;2,87
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;70098470000891;2,74
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;70098470000972;2,839
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;JOAO PESSOA;70108154000187;2,8
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;SANTA RITA;01660981000166;2,659
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;SANTA RITA;01664503000124;2,72
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;SANTA RITA;02481371000168;2,63
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;SANTA RITA;03307001000171;2,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;SANTA RITA;05487945000101;2,6
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;SANTA RITA;06350172000171;2,819
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;SANTA RITA;08904492000151;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2013;GASOLINA;SANTA RITA;09428830000199;2,7
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;BAYEUX;01420327000185;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;BAYEUX;01633732000181;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;BAYEUX;03450959000117;2,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;BAYEUX;05325947000196;2,259
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;BAYEUX;09230509000103;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;BAYEUX;09359690000144;2,439
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;BAYEUX;10542290000159;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;BAYEUX;24206617002170;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;CABEDELO;03861460000100;2,3
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;CABEDELO;09220427000170;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;CABEDELO;09352634000269;2,38
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;CABEDELO;11372084000704;2,2595
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;CABEDELO;11804319000196;2,38
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;CABEDELO;12778220000120;2,289
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;CABEDELO;41198466000120;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;CABEDELO;45543915032547;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;CABEDELO;70098470000468;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;00289351000164;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;00378736000106;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;00785890000194;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;01256702000101;2,449
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;01420327000266;2,2
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;01720637000115;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;01765332000120;2,2545
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;01857272000175;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;02433147000109;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;02561589000122;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;02728991000159;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;03406538000199;2,184
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;03499512000132;2,34
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;03604229000123;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;03690688000177;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;04207371000108;2,174
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;04209860000190;2,2645
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;04227132000101;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;04553372000104;2,37
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;04581886000165;2,33
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;04690510000199;2,24
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;04704550000142;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;04863475000162;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;04976690000170;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;05040093000100;2,34
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;05202017000145;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;05248833000190;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;05302544000121;2,249
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;05326045000174;2,329
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;05564031000199;2,2295
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;05661052000122;2,279
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;05725563000160;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;05747008000130;2,31
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;05790929000185;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;06293662000183;2,17
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;06299899000171;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;06299899000252;2,27
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;06974840000131;2,35
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;07000707000228;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;07176121000138;2,259
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;07343285000102;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;07409732000189;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;07613186000101;2,439
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;07686979000142;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;08240660000151;2,359
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;08293883000187;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;08299372000172;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;08301012000168;2,37
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;08429323000107;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;08429325000104;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;08435592000186;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;08932269000118;2,349
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;09062603000192;2,339
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;09141763000550;2,259
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;09404474000173;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;10580955000119;2,309
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;10589308000178;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;10619077000106;2,389
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;10827134000134;2,339
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;10851582000416;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;10873522000151;2,349
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;10888859000132;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;11186284000179;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;11372084000453;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;11372084000534;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;11372084000615;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;11601184000242;2,46
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;11701535000106;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;12928917000210;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;40965634000870;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;40965634001256;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;40974412000147;2,32
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;41118415000141;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;41123266000109;2,295
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;41145020000138;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;41219874000111;2,298
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;47508411122855;2,179
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;70098470000891;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;70098470000972;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;JOAO PESSOA;70108154000187;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;SANTA RITA;01664503000124;2,2
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;SANTA RITA;02481371000168;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;SANTA RITA;03307001000171;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;SANTA RITA;06350172000171;2,35
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;SANTA RITA;08904492000151;2,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;ETANOL;SANTA RITA;09428830000199;2,26
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;BAYEUX;01420327000185;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;BAYEUX;01633732000181;2,82
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;BAYEUX;03450959000117;2,83
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;BAYEUX;05325947000196;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;BAYEUX;07211715000132;2,91
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;BAYEUX;09230509000103;2,82
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;BAYEUX;09359690000144;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;BAYEUX;10542290000159;2,83
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;BAYEUX;24206617002170;2,829
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;CABEDELO;03295844000103;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;CABEDELO;03861460000100;2,83
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;CABEDELO;09220427000170;2,83
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;CABEDELO;09352634000269;2,94
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;CABEDELO;11372084000704;2,8345000000000002
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;CABEDELO;11804319000196;2,83
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;CABEDELO;12778220000120;2,829
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;CABEDELO;41198466000120;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;CABEDELO;45543915032547;2,779
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;CABEDELO;70098470000468;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;00289351000164;2,86
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;00378736000106;2,859
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;00785890000194;2,795
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;01256702000101;2,859
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;01420327000266;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;01720637000115;2,849
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;01765332000120;2,82
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;01857272000175;2,78
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;02433147000109;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;02561589000122;2,739
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;02728991000159;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;03406538000199;2,739
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;03499512000132;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;03604229000123;2,759
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;03690688000177;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;04207371000108;2,819
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;04209860000190;2,8235
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;04227132000101;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;04553372000104;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;04581886000165;2,869
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;04690510000199;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;04704550000142;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;04863475000162;2,8499999999999996
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;04976690000170;2,829
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;05040093000100;2,84
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;05202017000145;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;05248833000190;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;05302544000121;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;05326045000174;2,849
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;05564031000199;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;05661052000122;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;05725563000160;2,829
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;05747008000130;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;05790929000185;2,879
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;06293662000183;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;06299899000171;2,7995
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;06299899000252;2,829
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;06974840000131;2,71
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;07000707000228;2,849
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;07176121000138;2,829
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;07343285000102;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;07409732000189;2,8525
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;07613186000101;2,849
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;07686979000142;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;08240660000151;2,869
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;08293883000187;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;08299372000172;2,85
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;08301012000168;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;08429323000107;2,81
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;08429325000104;2,85
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;08435592000186;2,819
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;08932269000118;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;09062603000192;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;09141763000550;2,829
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;09404474000173;2,859
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;10580955000119;2,849
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;10589308000178;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;10619077000106;2,859
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;10827134000134;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;10851582000416;2,86
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;10873522000151;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;10888859000132;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;11186284000179;2,82
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;11372084000453;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;11372084000534;2,82
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;11372084000615;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;11601184000242;2,83
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;11701535000106;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;12928917000210;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;40965634000870;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;40965634001256;2,819
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;40974412000147;2,86
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;41118415000141;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;41123266000109;2,84
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;41145020000138;2,785
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;41219874000111;2,848
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;47508411122855;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;70098470000891;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;70098470000972;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;JOAO PESSOA;70108154000187;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;SANTA RITA;01664503000124;2,67
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;SANTA RITA;02481371000168;2,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;SANTA RITA;03307001000171;2,72
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;SANTA RITA;06350172000171;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;SANTA RITA;08904492000151;2,77
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2014;GASOLINA;SANTA RITA;09428830000199;2,87
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;01420327000185;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;01633732000181;2,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;03450959000117;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;05325947000196;2,289
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;08615199000174;2,339
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;09230509000103;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;09248212000167;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;09359690000144;2,439
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;10542290000159;2,148
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;15643902000113;2,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;24206617002170;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;BAYEUX;84010040000708;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;CABEDELO;03861460000100;2,3
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;CABEDELO;09220427000170;2,32
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;CABEDELO;09352634000269;2,38
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;CABEDELO;11372084000704;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;CABEDELO;11804319000196;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;CABEDELO;12778220000120;2,289
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;CABEDELO;41198466000120;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;CABEDELO;45543915032547;2,179
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;CABEDELO;70098470000468;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;00289351000164;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;00378736000106;2,219
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;01256702000101;2,449
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;01420327000266;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;01720637000115;2,319
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;01765332000120;2,259
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;01857272000175;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;02433147000109;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;03406538000199;2,198
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;03604229000123;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;03690688000177;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;04207371000108;2,279
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;04209860000190;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;04227132000101;2,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;04553372000104;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;04581886000165;2,33
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;04690510000199;2,24
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;04704550000142;2,2199999999999998
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;04863475000162;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;04968198000233;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;04976690000170;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05040093000100;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05202017000145;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05248833000190;2,35
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05302544000121;2,249
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05323723000145;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05326045000174;2,224
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05366353000123;2,33
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05564031000199;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05661052000122;2,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05725563000160;2,149
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05747008000130;2,38
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;05790929000185;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;06137380000197;2,189
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;06293662000183;2,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;06299899000171;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;06299899000252;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;06974840000131;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;07000707000228;2,42
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;07176121000138;2,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;07343285000102;2,2545
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;07613186000101;2,439
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;07686979000142;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;07913264000185;2,285
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;08240660000151;2,359
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;08293883000187;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;08299372000172;2,46
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;08301012000168;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;08429323000107;2,289
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;08435592000186;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;08848483000190;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;08932269000118;2,349
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;09062603000192;2,339
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;09141763000399;2,35
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;09141763000550;2,34
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;10580955000119;2,359
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;10589308000178;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;10619077000106;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;10827134000134;2,39
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;10851582000335;2,2945
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;10851582000416;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;10873522000151;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;11186284000179;2,32
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;11372084000372;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;11372084000453;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;11372084000534;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;11372084001263;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;11372084001859;2,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;11701535000106;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;12928917000210;2,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;14101929000111;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;16668297000106;2,33
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;40974412000147;2,42
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;41118415000141;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;41123266000109;2,298
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;41145020000138;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;41219874000111;2,298
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;47508411122855;2,239
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;70098470000620;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;70098470000891;2,29
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;70098470000972;2,299
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;JOAO PESSOA;70108154000187;2,2
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;SANTA RITA;02481371000168;2,37
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;SANTA RITA;04568254000161;2,61
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;SANTA RITA;06350172000171;2,4
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;SANTA RITA;07005641000188;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;SANTA RITA;08904492000151;2,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;SANTA RITA;09428830000199;2,26
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;SANTA RITA;14547859000120;2,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;ETANOL;SANTA RITA;18785851000152;2,335
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;01420327000185;3,06
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;01633732000181;3,13
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;03450959000117;3,075
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;05325947000196;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;07211715000132;3,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;08615199000174;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;09230509000103;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;09248212000167;3,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;09359690000144;3,149
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;10542290000159;3,039
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;15643902000113;3,13
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;24206617002170;3,129
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;BAYEUX;84010040000708;3,149
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;CABEDELO;03295844000103;3,14
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;CABEDELO;03861460000100;3,149
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;CABEDELO;09220427000170;3,149
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;CABEDELO;09352634000269;3,24
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;CABEDELO;11372084000704;2,9800000000000004
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;CABEDELO;11804319000196;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;CABEDELO;12778220000120;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;CABEDELO;41198466000120;3,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;CABEDELO;45543915032547;2,97
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;CABEDELO;70098470000468;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;00289351000164;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;00378736000106;3,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;01256702000101;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;01420327000266;2,97
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;01720637000115;3,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;01765332000120;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;01857272000175;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;02433147000109;3,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;03406538000199;2,989
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;03499512000132;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;03604229000123;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;03690688000177;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;04207371000108;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;04209860000190;3,098
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;04227132000101;3,03
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;04553372000104;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;04581886000165;3,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;04690510000199;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;04704550000142;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;04863475000162;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;04968198000233;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;04976690000170;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05040093000100;3,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05202017000145;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05248833000190;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05302544000121;3,049
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05323723000145;3,138
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05326045000174;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05366353000123;3,25
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05564031000199;3,04
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05661052000122;3,0095
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05725563000160;2,959
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05747008000130;3,26
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;05790929000185;2,879
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;06137380000197;3,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;06293662000183;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;06299899000171;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;06299899000252;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;06974840000131;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;07000707000228;3,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;07176121000138;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;07343285000102;3,04
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;07613186000101;3,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;07686979000142;2,959
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;07913264000185;3,0695
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;08240660000151;3,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;08293883000187;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;08299372000172;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;08301012000168;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;08429323000107;3,059
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;08435592000186;2,959
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;08848483000190;2,959
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;08932269000118;3,05
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;09062603000192;3,149
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;09141763000399;3,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;09141763000550;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;10580955000119;3,139
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;10589308000178;3,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;10619077000106;2,959
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;10827134000134;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;10851582000335;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;10851582000416;3,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;10873522000151;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;11186284000179;3,0445
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;11372084000372;2,959
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;11372084000453;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;11372084000534;2,939
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;11372084001263;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;11372084001859;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;11701535000106;3,188
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;12928917000210;3,23
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;14101929000111;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;16668297000106;3,015
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;40974412000147;3,14
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;41118415000141;3,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;41123266000109;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;41145020000138;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;41219874000111;3,089
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;47508411122855;3,039
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;70098470000620;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;70098470000891;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;70098470000972;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;JOAO PESSOA;70108154000187;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;SANTA RITA;02481371000168;3,05
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;SANTA RITA;04568254000161;3,276
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;SANTA RITA;06350172000171;3,0945
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;SANTA RITA;07005641000188;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;SANTA RITA;08904492000151;2,96
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;SANTA RITA;09428830000199;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;SANTA RITA;14547859000120;3,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2015;GASOLINA;SANTA RITA;18785851000152;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;BAYEUX;01420327000185;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;BAYEUX;03450959000117;2,879
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;BAYEUX;05325947000196;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;BAYEUX;08615199000174;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;BAYEUX;09230509000103;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;BAYEUX;09248212000167;2,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;BAYEUX;09359690000144;3,15
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;BAYEUX;15386712000168;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;BAYEUX;24206617002170;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;BAYEUX;84010040000708;2,64
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;03295844000103;3,05
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;03861460000100;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;09220427000170;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;09352634000269;3,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;11372084000704;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;11804319000196;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;12778220000120;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;19108209000100;2,94
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;41198466000120;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;45543915032547;2,969
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;CABEDELO;70098470000468;3,14
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;00289351000164;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;00378736000106;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;01420327000266;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;01765332000120;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;01857272000175;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;02433147000109;2,879
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;02561589000122;2,67
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;02728991000159;2,849
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;03406538000199;2,898
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;03690688000177;2,8945
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;04207371000108;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;04209860000190;2,969
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;04227132000101;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;04553372000104;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;04581886000165;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;04976690000170;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;05040093000100;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;05248833000190;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;05302544000121;3,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;05326045000174;3,1390000000000002
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;05564031000199;2,679
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;05661052000122;2,849
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;05725563000160;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;05747008000130;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;06293662000183;2,759
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;06299899000171;2,8745000000000003
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;06299899000252;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;06860094000155;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;07000707000228;3,1445
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;07176121000138;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;07343285000102;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;07409732000189;2,67
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;07613186000101;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;07686979000142;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;08240660000151;3,0244999999999997
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;08293883000187;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;08299372000172;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;08301012000168;2,859
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;08429323000107;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;08435592000186;2,67
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;08932269000118;3,0045
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;09062603000192;2,85
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;09141763000399;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;09141763000550;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;10580955000119;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;10589308000178;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;10827134000134;2,769
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;10851582000335;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;10851582000416;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;10873522000151;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;11372084000372;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;11372084000453;2,859
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;11372084000534;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;11372084001182;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;11372084001263;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;11372084001859;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;11701535000106;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;12602965000133;3,079
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;12928917000210;3,28
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;16403510000140;2,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;16668297000106;2,845
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;17084166000136;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;41118415000141;2,987
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;41219874000111;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;47508411122855;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;70098470000620;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;70098470000891;2,974
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;JOAO PESSOA;70098470000972;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;SANTA RITA;01664503000124;2,9
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;SANTA RITA;02481371000168;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;SANTA RITA;04568254000161;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;SANTA RITA;06350172000171;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;SANTA RITA;07005641000188;3,269
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;SANTA RITA;14547859000120;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;ETANOL;SANTA RITA;18785851000152;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;01420327000185;3,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;03450959000117;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;05325947000196;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;07211715000132;3,65
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;08615199000174;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;09200728000301;3,65
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;09230509000103;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;09248212000167;3,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;09359690000144;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;15386712000168;3,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;24206617002170;3,619
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;BAYEUX;84010040000708;3,649
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;03295844000103;3,75
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;03861460000100;3,474
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;09220427000170;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;09352634000269;3,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;11372084000704;3,585
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;11804319000196;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;12778220000120;3,449
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;19108209000100;3,525
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;41198466000120;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;45543915032547;3,559
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;CABEDELO;70098470000468;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;00289351000164;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;00378736000106;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;01420327000266;3,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;01765332000120;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;01857272000175;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;02433147000109;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;02561589000122;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;02728991000159;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;03406538000199;3,559
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;03499512000132;3,419
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;03690688000177;3,549
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;04207371000108;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;04209860000190;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;04227132000101;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;04553372000104;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;04581886000165;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;04976690000170;3,579
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;05040093000100;3,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;05248833000190;3,5745
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;05302544000121;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;05326045000174;3,689
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;05564031000199;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;05661052000122;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;05725563000160;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;05747008000130;3,68
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;06293662000183;3,439
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;06299899000171;3,5445
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;06299899000252;3,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;06860094000155;3,429
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;07000707000228;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;07176121000138;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;07343285000102;3,379
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;07409732000189;3,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;07613186000101;3,559
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;07686979000142;3,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;08240660000151;3,64
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;08293883000187;3,459
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;08299372000172;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;08301012000168;3,439
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;08429323000107;3,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;08435592000186;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;08932269000118;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;09062603000192;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;09141763000399;3,569
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;09141763000550;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;10580955000119;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;10589308000178;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;10827134000134;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;10851582000335;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;10851582000416;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;10873522000151;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;11372084000372;3,429
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;11372084000453;3,399
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;11372084000534;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;11372084001182;3,539
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;11372084001263;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;11372084001859;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;11701535000106;3,689
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;12602965000133;3,579
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;12611713000170;3,439
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;12928917000210;3,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;16403510000140;3,51
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;16668297000106;3,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;17084166000136;3,539
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;41118415000141;3,794
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;41219874000111;3,698
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;47508411122855;3,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;70098470000620;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;70098470000891;3,489
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;JOAO PESSOA;70098470000972;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;SANTA RITA;01664503000124;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;SANTA RITA;02481371000168;3,519
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;SANTA RITA;04568254000161;3,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;SANTA RITA;06350172000171;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;SANTA RITA;07005641000188;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;SANTA RITA;14547859000120;3,589
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2016;GASOLINA;SANTA RITA;18785851000152;3,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;BAYEUX;01420327000185;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;BAYEUX;03450959000117;2,7489999999999997
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;BAYEUX;05325947000196;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;BAYEUX;09230509000103;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;BAYEUX;09359690000144;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;BAYEUX;10542290000159;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;BAYEUX;15386712000168;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;BAYEUX;15643902000113;2,88
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;BAYEUX;24206617002170;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;03295844000103;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;03861460000100;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;09220427000170;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;09352634000269;3,18
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;11372084000704;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;11372084001506;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;11804319000196;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;12778220000120;2,769
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;19108209000100;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;41198466000120;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;45543915032547;2,759
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;CABEDELO;70098470000468;3,19
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;00289351000164;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;00378736000106;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;00785890000194;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;01720637000115;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;01765332000120;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;01857272000175;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;02433147000109;3,079
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;04207371000108;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;04209860000190;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;04581886000165;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;04976690000170;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;05248833000190;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;05302544000121;3,199
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;05326045000174;2,979
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;05661052000122;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;05725563000160;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;05747008000130;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;06137380000197;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;06293662000183;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;06299899000171;2,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;06299899000252;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;06860094000155;2,859
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;07000707000228;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;07176121000138;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;07613186000101;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;07686979000142;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;08240660000151;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;08293883000187;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;08299372000172;2,789
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;08301012000168;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;08429323000107;2,729
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;08932269000118;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;09062603000192;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;09141763000399;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;09141763000550;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;10580955000119;2,799
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;10589308000178;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;10827134000134;2,998
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;10851582000335;2,879
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;10851582000416;3,079
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;11372084000372;2,8945
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;11372084000534;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;11372084001182;2,8289999999999997
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;11372084001263;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;11372084001778;2,89
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;11372084001859;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;11661993000169;3,099
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;11701535000106;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;12611713000170;2,859
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;13972778000104;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;14027002000189;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;14101929000111;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;14302704000123;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;16403510000140;2,76
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;16668297000106;2,789
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;17084166000136;2,899
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;19036138000179;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;41219874000111;2,7695
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;47508411122855;2,729
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;70098470000891;2,749
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;JOAO PESSOA;70098470000972;2,9445
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;SANTA RITA;02481371000168;3,09
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;SANTA RITA;05487945000101;2,792
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;SANTA RITA;06350172000171;3,049
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;SANTA RITA;14547859000120;2,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;ETANOL;SANTA RITA;18785851000152;2,99
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;01420327000185;3,58
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;03450959000117;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;05325947000196;3,65
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;07211715000132;3,63
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;09200728000301;3,63
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;09230509000103;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;09359690000144;3,669
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;10542290000159;3,549
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;15386712000168;3,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;15643902000113;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;BAYEUX;24206617002170;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;03295844000103;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;03861460000100;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;09220427000170;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;09352634000269;3,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;11372084000704;3,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;11372084001506;3,679
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;11804319000196;3,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;12778220000120;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;19108209000100;3,56
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;41198466000120;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;45543915032547;3,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;CABEDELO;70098470000468;3,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;00289351000164;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;00378736000106;3,679
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;00785890000194;3,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;01720637000115;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;01765332000120;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;01857272000175;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;02433147000109;3,79
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;03499512000132;3,519
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;04207371000108;3,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;04209860000190;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;04581886000165;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;04976690000170;3,45
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;05248833000190;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;05302544000121;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;05326045000174;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;05661052000122;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;05725563000160;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;05747008000130;3,68
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;06137380000197;3,689
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;06293662000183;3,569
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;06299899000171;3,45
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;06299899000252;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;06860094000155;3,659
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;07000707000228;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;07176121000138;3,529
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;07613186000101;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;07686979000142;3,4690000000000003
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;08240660000151;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;08293883000187;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;08299372000172;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;08301012000168;3,45
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;08429323000107;3,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;08932269000118;3,539
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;09141763000399;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;09141763000550;3,6445
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;10580955000119;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;10589308000178;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;10827134000134;3,698
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;10851582000335;3,449
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;10851582000416;3,69
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;11372084000372;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;11372084000534;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;11372084001182;3,449
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;11372084001263;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;11372084001778;3,49
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;11372084001859;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;11661993000169;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;11701535000106;3,689
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;12611713000170;3,6544999999999996
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;13972778000104;3,659
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;14027002000189;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;14101929000111;3,999
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;14302704000123;3,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;16403510000140;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;16668297000106;3,4690000000000003
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;17084166000136;3,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;19036138000179;3,699
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;41219874000111;3,529
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;47508411122855;3,479
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;70098470000891;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;JOAO PESSOA;70098470000972;3,539
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;SANTA RITA;02481371000168;3,59
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;SANTA RITA;05487945000101;3,449
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;SANTA RITA;06350172000171;3,599
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;SANTA RITA;14547859000120;3,499
+"Dados/Analitico/posto_semana.parquet; mediana anual por posto.";2017;GASOLINA;SANTA RITA;18785851000152;3,55

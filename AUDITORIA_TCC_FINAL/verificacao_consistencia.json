@@ -1,0 +1,66 @@
+{
+  "status": "APROVADO",
+  "verificacoes": [
+    {
+      "verificacao": "integridade_entradas",
+      "resultado": "OK",
+      "detalhe": "21 hashes originais idênticos"
+    },
+    {
+      "verificacao": "integridade_posto_semana",
+      "resultado": "OK",
+      "detalhe": "69285 linhas, 205 postos, 0 duplicidades"
+    },
+    {
+      "verificacao": "cobertura_anual_e_semanas_comuns",
+      "resultado": "OK",
+      "detalhe": "128 grupos anuais; 322 semanas comuns; 24/07/2017: 8/8"
+    },
+    {
+      "verificacao": "amplitude_anual",
+      "resultado": "OK",
+      "detalhe": "diferença máxima de recálculo = 8.33e-17 R$/L"
+    },
+    {
+      "verificacao": "correcao_ipca",
+      "resultado": "OK",
+      "detalhe": "1250 grupos mensais, base 06/2026, erro de fórmula 2.66e-15"
+    },
+    {
+      "verificacao": "kruskal_independencia_e_holm",
+      "resultado": "OK",
+      "detalhe": "14 testes; 2 brutos e 1 após Holm; n mínimo por município=5"
+    },
+    {
+      "verificacao": "sensibilidade_limite_0_01",
+      "resultado": "OK",
+      "detalhe": "1587/5249 grupos mudaram mais de R$ 0,01/L"
+    },
+    {
+      "verificacao": "evolucao_temporal_cv",
+      "resultado": "OK",
+      "detalhe": "5242 semanas e 185 meses"
+    },
+    {
+      "verificacao": "validacao_independente_anp",
+      "resultado": "OK",
+      "detalhe": "178 comparações; MAE=0.00413365 R$/L; Pearson=0.99999409"
+    },
+    {
+      "verificacao": "amostra_osrm_e_haversine",
+      "resultado": "OK",
+      "detalhe": "25/25 rotas OSRM; erro Haversine máximo=1.78e-15 km"
+    },
+    {
+      "verificacao": "figuras_svg_validas",
+      "resultado": "OK",
+      "detalhe": "8 arquivos SVG parseados como XML"
+    },
+    {
+      "verificacao": "documentacao_final",
+      "resultado": "OK",
+      "detalhe": "cinco relatórios solicitados presentes"
+    }
+  ],
+  "quantidade_verificacoes": 12
+}
