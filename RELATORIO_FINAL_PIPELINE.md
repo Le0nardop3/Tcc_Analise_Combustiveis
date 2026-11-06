@@ -18,7 +18,7 @@ Os artefatos analíticos estão disponíveis para alimentar filtros e gráficos 
 2. **02 — Limpeza:** quatro células de código concluídas no kernel `.venv-1`. Foram preservados 69.506 registros válidos. Nenhum registro foi rejeitado por validade e nenhum outlier foi excluído automaticamente. Foram sinalizados 5.457 preços: 694 pelo critério histórico de 3 desvios-padrão, 5.098 pelo IQR local e 335 por ambos. O arquivo limpo mantém os flags para auditoria e sensibilidade.
 3. **03 — Agregação:** o código-fonte atual do notebook foi executado no interpretador `.venv-1`, com exit code 0, e seus Parquet foram regenerados. A execução da célula pelo serviço de kernel do VS Code retornou estado inconclusivo e não registrou `execution_count`; por isso executei o código-fonte do notebook diretamente no mesmo Python e validei os arquivos resultantes. Resultado: 69.285 linhas posto-semana, 205 postos e 5.249 grupos município-semana-combustível. Todas as 5.249 células tiveram grupo comparável sem os sinalizados.
 4. **04 — Métricas:** três células de código concluídas no kernel `.venv-1`. Foram gerados rankings, dispersão e variações temporais. Sete grupos têm apenas um posto, portanto o desvio-padrão/CV é indefinido e a comparação entre estabelecimentos fica marcada como insuficiente. A célula opcional de IPCA informou que não existe arquivo local, sem bloquear o notebook.
-5. **05 — Análise:** seis células de código concluídas no kernel `.venv-1`. Foram regeneradas as séries históricas, sazonalidade, gráficos de dispersão, comparações de semana comum, rankings e testes estatísticos.
+5. **05 — Análise:** as células de análise foram executadas com os dados atuais. Além das séries históricas, sazonalidade, dispersão e comparação de semana comum, foram gerados preços reais pelo IPCA, cobertura anual, amplitude mediana anual e Kruskal-Wallis anual.
 
 O único aviso de execução observado foi `DtypeWarning` do pandas em colunas de estado/município (e, em alguns arquivos, produto/data) com tipos mistos nos CSVs ANP. A execução continuou, os dados foram normalizados e as verificações de valores passaram. O aviso não exigiu alteração dos CSVs ou dos notebooks nesta validação.
 
@@ -32,7 +32,10 @@ O único aviso de execução observado foi `DtypeWarning` do pandas em colunas d
 - **Variação percentual:** os valores por posto e município foram recalculados independentemente contra a observação anterior. O intervalo em dias acompanha cada comparação; o gráfico de variação semanal usa apenas intervalos de sete dias.
 - **Rankings:** 69.285 registros, particionados por semana, município e combustível. As posições de mais barato/mais caro foram recalculadas e conferidas; não comparam preços de anos diferentes.
 - **Semana comum:** 24/07/2017, com 63 posto-semana: Bayeux 6/7, Cabedelo 5/6, João Pessoa 17/16 e Santa Rita 3/3 para etanol/gasolina. Esse é o último período em que todos os oito grupos têm pelo menos dois postos.
-- **Kruskal-Wallis:** comparação exploratória por município, usando postos da mesma semana. Etanol: 31 postos, p=0,4183, p ajustado=0,8366. Gasolina: 32 postos, p=0,4095, p ajustado=0,8190. Nenhum resultado foi significativo a 5% após Bonferroni.
+- **IPCA:** a série do SIDRA/IBGE (tabela 1737, variável 2266) foi salva em `Dados/Analitico/ipca.csv`; os preços reais usam junho de 2026 como mês-base, o último mês comum à base de preços.
+- **Cobertura:** `tabelas/cobertura_anual_municipio.csv` contém postos auditados e semanas válidas por município e ano.
+- **Amplitude:** `tabelas/amplitude_mediana_anual.csv` contém a mediana anual da diferença entre o posto mais caro e o mais barato por município e combustível.
+- **Kruskal-Wallis anual:** foram realizados 32 testes (16 anos, dois combustíveis). Houve significância a 5% em 28 combinações ano-produto, correspondentes a **16 anos distintos**. Os resultados completos estão em `tabelas/kruskal_wallis_anual.csv`.
 - **Paridade:** os cálculos existentes foram mantidos e recalculados sobre os preços municipais atualizados; não foram adicionadas funcionalidades de paridade.
 - **Figuras:** 13 imagens produzidas/atualizadas pelo Notebook 05 foram verificadas quanto à existência e tamanho não vazio. As séries municipais e saídas anteriores corretas foram preservadas.
 
@@ -92,7 +95,7 @@ requests==2.34.2
 - As coletas da ANP são amostrais e históricas, não preços em tempo real nem um censo dos postos.
 - Somente 11 de 205 postos têm coordenadas no cache atual. A cobertura geográfica é insuficiente para apresentar o mapa como localização completa/confiável sem validação adicional.
 - A semana de 24/07/2017 é usada para comparações entre municípios e bairros com períodos equivalentes; os dados por posto e município e os rankings semanais continuam disponíveis até 29/06/2026.
-- O IPCA não está presente e permaneceu opcional.
+- A análise real depende da atualização mensal da série do SIDRA; o arquivo utilizado nesta execução vai até setembro de 2026.
 - Os Parquet analíticos estão prontos para filtros, séries, rankings e comparações do dashboard. O dashboard não foi executado nem alterado, e sua integração funcional não foi certificada. Em `dashboard/app.py`, `coordenadas_postos`, `lookup_reference_address` e `distance_km` são referenciados sem definição nesse arquivo; junto à cobertura de apenas 11/205 coordenadas, isso bloqueia afirmar que o painel está pronto para uso, embora os dados analíticos estejam prontos para consumo.
 
 ## Backup e escopo

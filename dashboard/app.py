@@ -750,7 +750,13 @@ if "ETANOL" in minimum_wide:
 if {"Média gasolina", "Média etanol"}.issubset(mean_wide.columns):
     mean_wide["Razão etanol/gasolina"] = mean_wide["Média etanol"] / mean_wide["Média gasolina"]
     mean_wide["Referência 0,70"] = mean_wide["Razão etanol/gasolina"].map(
-        lambda value: "Etanol" if value <= 0.70 else "Gasolina"
+        lambda value: (
+            "Sem par"
+            if pd.isna(value)
+            else "Etanol"
+            if value <= 0.70
+            else "Gasolina"
+        )
     )
 
 st.markdown('<div id="comparacao-regional"></div>', unsafe_allow_html=True)
@@ -901,6 +907,220 @@ st.dataframe(
     },
 )
 st.caption("Cada valor é a média semanal publicada para o posto na base da ANP. A base não contém preços em tempo real.")
+
+st.divider()
+st.markdown('<div id="analises-tcc"></div>', unsafe_allow_html=True)
+st.subheader("Análises estatísticas")
+st.caption(
+    "Resultados calculados com a base histórica de preços da ANP e o IPCA do SIDRA/IBGE."
+)
+
+analysis_tables = {
+    "ipca": ROOT / "tabelas" / "precos_nominais_reais_ipca.csv",
+    "cobertura": ROOT / "tabelas" / "cobertura_anual_municipio.csv",
+    "amplitude": ROOT / "tabelas" / "amplitude_mediana_anual.csv",
+    "kruskal": ROOT / "tabelas" / "kruskal_wallis_anual.csv",
+}
+missing_analysis_tables = [
+    str(path.relative_to(ROOT))
+    for path in analysis_tables.values()
+    if not path.exists()
+]
+if missing_analysis_tables:
+    st.warning(
+        "As análises ainda não estão disponíveis. Execute os notebooks para gerar: "
+        + ", ".join(missing_analysis_tables)
+    )
+else:
+    st.markdown("#### Evolução dos preços e inflação")
+    st.caption(
+        "Ajusta os preços históricos pela inflação para permitir uma comparação justa "
+        "do poder de compra ao longo do tempo."
+    )
+    ipca_results = pd.read_csv(analysis_tables["ipca"], sep=";", decimal=",")
+    ipca_results["mes"] = pd.to_datetime(ipca_results["mes"], errors="coerce")
+    ipca_results["serie"] = (
+        ipca_results["municipio"] + " · " + ipca_results["produto"].str.title()
+    )
+    ipca_metric = st.radio(
+        "Série de preços para visualizar",
+        options=["Nominal", "Real corrigida pelo IPCA"],
+        horizontal=True,
+        key="tcc_ipca_metric",
+    )
+    ipca_value_column = "valor_nominal" if ipca_metric == "Nominal" else "valor_real"
+    ipca_figure = px.line(
+        ipca_results,
+        x="mes",
+        y=ipca_value_column,
+        color="serie",
+        labels={
+            "mes": "Mês",
+            ipca_value_column: "Preço (R$/L)",
+            "serie": "Município · combustível",
+        },
+        title=f"Preços {ipca_metric.lower()} por município",
+    )
+    ipca_figure.update_layout(
+        height=460,
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="rgba(0,0,0,0)",
+        hovermode="x unified",
+        legend_title_text="",
+    )
+    ipca_figure.update_yaxes(tickprefix="R$ ", gridcolor="#DDE4DD")
+    st.plotly_chart(ipca_figure, width="stretch")
+    st.download_button(
+        "Baixar dados da série de preços",
+        data=analysis_tables["ipca"].read_bytes(),
+        file_name="precos_nominais_reais_ipca.csv",
+        mime="text/csv",
+        key="download_ipca_tcc",
+    )
+
+    cobertura_results = pd.read_csv(analysis_tables["cobertura"], sep=";", decimal=",")
+    cobertura_results["serie"] = cobertura_results["municipio"]
+    st.markdown("#### Cobertura da pesquisa")
+    st.caption(
+        "Mostra como a quantidade de postos e semanas observadas varia entre os municípios "
+        "em cada ano, ajudando a avaliar a abrangência dos dados."
+    )
+    cobertura_columns = st.columns(2)
+    with cobertura_columns[0]:
+        cobertura_postos = px.line(
+            cobertura_results,
+            x="ano",
+            y="postos_auditados",
+            color="serie",
+            markers=True,
+            labels={
+                "ano": "Ano",
+                "postos_auditados": "Postos auditados",
+                "serie": "Município",
+            },
+            title="Cobertura: postos auditados",
+        )
+        cobertura_postos.update_layout(legend_title_text="")
+        st.plotly_chart(cobertura_postos, width="stretch")
+    with cobertura_columns[1]:
+        cobertura_semanas = px.line(
+            cobertura_results,
+            x="ano",
+            y="semanas_validas",
+            color="serie",
+            markers=True,
+            labels={
+                "ano": "Ano",
+                "semanas_validas": "Semanas válidas",
+                "serie": "Município",
+            },
+            title="Cobertura: semanas válidas",
+        )
+        cobertura_semanas.update_layout(legend_title_text="")
+        st.plotly_chart(cobertura_semanas, width="stretch")
+    st.download_button(
+        "Baixar dados de cobertura",
+        data=analysis_tables["cobertura"].read_bytes(),
+        file_name="cobertura_anual_municipio.csv",
+        mime="text/csv",
+        key="download_cobertura_tcc",
+    )
+
+    amplitude_results = pd.read_csv(analysis_tables["amplitude"], sep=";", decimal=",")
+    amplitude_results["serie"] = (
+        amplitude_results["municipio"] + " · " + amplitude_results["produto"].str.title()
+    )
+    st.markdown("#### Diferença de preços entre postos")
+    st.caption(
+        "Resume a distância típica entre o posto mais barato e o mais caro em cada ano, "
+        "revelando o nível de dispersão dos preços dentro de cada município."
+    )
+    amplitude_figure = px.line(
+        amplitude_results,
+        x="ano",
+        y="amplitude_mediana",
+        color="serie",
+        markers=True,
+        labels={
+            "ano": "Ano",
+            "amplitude_mediana": "Amplitude mediana (R$/L)",
+            "serie": "Município · combustível",
+        },
+        title="Mediana anual da amplitude entre postos",
+    )
+    amplitude_figure.update_layout(legend_title_text="")
+    amplitude_figure.update_yaxes(tickprefix="R$ ", gridcolor="#DDE4DD")
+    st.plotly_chart(amplitude_figure, width="stretch")
+    st.download_button(
+        "Baixar dados da diferença de preços",
+        data=analysis_tables["amplitude"].read_bytes(),
+        file_name="amplitude_mediana_anual.csv",
+        mime="text/csv",
+        key="download_amplitude_tcc",
+    )
+
+    kruskal_results = pd.read_csv(analysis_tables["kruskal"], sep=";", decimal=",")
+    kruskal_results["serie"] = (
+        kruskal_results["produto"].str.title() + " (p-valor)"
+    )
+    st.markdown("#### Diferenças entre municípios")
+    st.caption(
+        "Verifica se os preços observados diferem significativamente entre os municípios "
+        "em cada ano, separando diferenças consistentes de variações ocasionais."
+    )
+    kruskal_figure = px.line(
+        kruskal_results,
+        x="ano",
+        y="p_valor",
+        color="serie",
+        markers=True,
+        log_y=True,
+        labels={
+            "ano": "Ano",
+            "p_valor": "p-valor (escala logarítmica)",
+            "serie": "Combustível",
+        },
+        title="Kruskal-Wallis anual entre municípios",
+    )
+    kruskal_figure.add_hline(
+        y=0.05,
+        line_dash="dash",
+        line_color="#D56A45",
+        annotation_text="α = 0,05",
+    )
+    kruskal_figure.update_layout(legend_title_text="")
+    st.plotly_chart(kruskal_figure, width="stretch")
+    significant_years = int(
+        kruskal_results.loc[
+            kruskal_results["significativo_5pct"], "ano"
+        ].nunique()
+    )
+    significant_tests = int(kruskal_results["significativo_5pct"].sum())
+    metric_columns = st.columns(2)
+    metric_columns[0].metric("Anos significativos", significant_years)
+    metric_columns[1].metric("Testes ano-combustível significativos", significant_tests)
+    st.dataframe(
+        kruskal_results[
+            ["ano", "produto", "estatistica_h", "p_valor", "significativo_5pct"]
+        ].rename(
+            columns={
+                "ano": "Ano",
+                "produto": "Combustível",
+                "estatistica_h": "H",
+                "p_valor": "p-valor",
+                "significativo_5pct": "Significativo (5%)",
+            }
+        ),
+        hide_index=True,
+        width="stretch",
+    )
+    st.download_button(
+        "Baixar resultados da comparação anual",
+        data=analysis_tables["kruskal"].read_bytes(),
+        file_name="kruskal_wallis_anual.csv",
+        mime="text/csv",
+        key="download_kruskal_tcc",
+    )
 
 st.markdown(
     """
